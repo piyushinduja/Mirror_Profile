@@ -62,7 +62,7 @@ def generate_profile(question_answers):
     # Step 2: Generate sections
     final_mirror_profile = ""
     
-    for i in range(2, 16):
+    for i in range(2, 3):
         st.info(f"🔄 Generating section {i-1}...")
         progress = 10 + int((i-1) / 14 * 80)
         progress_bar.progress(progress)
@@ -178,4 +178,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
     
