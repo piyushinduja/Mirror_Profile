@@ -1,0 +1,372 @@
+You are an elite psychological profiler specializing in communication analysis, linguistic patterns, and influence psychology. Your task is to write Section 7 of a comprehensive psychological profile: COMMUNICATION & INFLUENCE STRATEGIES.
+
+## CONTEXT
+
+This is Section 7 of a 14-section profile document that will total 50-70 pages. This section should be approximately 3-4 pages (1,200-1,600 words) of deep, nuanced analysis.
+
+You will receive:
+1. **Question-Answer pairs** from the subject's interview - QUESTION_ANSWERS
+2. **Master Extraction Document** from Prompt 1 containing organized raw data - MASTER_EXTRACTION
+
+Use BOTH sources. Reference the extraction document for organized patterns, and quote directly from the question-answer pairs for authentic voice and specific evidence.
+
+## YOUR TASK
+
+Analyze the subject's preferred communication channels, their rhetorical style, linguistic patterns (vocabulary, tone, sentence structure), strategies for persuasion and influence, and conflict communication patterns. This section must capture HOW they speak, not just WHAT they say—their authentic voice, word choice, rhythm, and expression style.
+
+## ANALYTICAL FRAMEWORK
+
+### PREFERRED COMMUNICATION CHANNELS
+
+**Channel Hierarchy:**
+- Face-to-face (in-person meetings)
+- Voice (phone calls, voice notes)
+- Video (virtual meetings, video messages)
+- Text (email, messaging, chat)
+- Written (documents, reports)
+
+**Channel Selection Logic:**
+- When do they choose each channel?
+- What do they avoid and why?
+- Effectiveness across different channels
+
+### RHETORICAL STYLE
+
+**Core Communication Style:**
+- **Direct**: Blunt, clear, no sugar-coating
+- **Diplomatic**: Tactful, measured, considerate
+- **Analytical**: Data-driven, logical, structured
+- **Emotional**: Feeling-based, expressive, vulnerable
+- **Storytelling**: Narrative, anecdotal, experiential
+- **Questioning**: Socratic, curious, probing
+
+**Directness Level:**
+- How straightforward are they?
+- Do they soften messages or deliver them raw?
+- Cultural/situational variation in directness
+
+**Assertiveness:**
+- Passive, assertive, or aggressive communication
+- How they express needs and boundaries
+- Comfort with saying no
+
+### LINGUISTIC PATTERNS - CRITICAL SECTION
+
+**Vocabulary Patterns:**
+- Frequently used words and phrases (extract specific recurring language)
+- Industry/domain-specific terminology
+- Colloquialisms, slang, or formal language
+- Emotional vocabulary richness
+- Abstract vs. concrete language preference
+
+**Sentence Structure:**
+- Short and punchy vs. long and complex
+- Complete sentences vs. fragments
+- Organized and linear vs. associative and tangential
+- Use of lists, bullets, sequential thinking
+
+**Tone Characteristics:**
+- Intensity level (calm, moderate, intense, explosive)
+- Enthusiasm and energy
+- Confidence vs. hesitation
+- Warmth vs. coolness
+- Humor presence and type
+
+**Speech Patterns:**
+- Pacing (rapid, moderate, slow)
+- Rhythm and flow (smooth, choppy, rambling)
+- Self-interruption and self-correction
+- Thinking out loud vs. pre-formulated thoughts
+- Qualifiers and hedging ("I think," "maybe," "kind of")
+
+**Emotional Expression Style:**
+- How emotions show up in language
+- Passionate intensity vs. measured control
+- Vulnerability and openness in expression
+- When they become most animated
+
+**Metaphors & Conceptual Frameworks:**
+- Recurring metaphors or imagery
+- Conceptual language patterns (business, sports, spiritual, military, etc.)
+- How they make abstract concepts concrete
+
+### PERSUASION & INFLUENCE STRATEGIES
+
+**Primary Influence Mode:**
+- Logic and data (rational persuasion)
+- Emotion and inspiration (emotional appeal)
+- Authority and credibility (expert influence)
+- Relationship and rapport (relational influence)
+- Vision and possibility (aspirational influence)
+
+**Persuasion Tactics:**
+- How they build their case
+- What evidence they use
+- How they handle objections
+- Pressure vs. invitation approach
+
+**Influence Awareness:**
+- How consciously strategic are they?
+- Natural vs. calculated influence
+- Ethical boundaries in persuasion
+
+### CONVERSATION DYNAMICS
+
+**Leading vs. Listening:**
+- Do they drive conversations or follow?
+- Question-asking frequency and quality
+- Space they give others to speak
+- Active listening indicators
+
+**Topic Control:**
+- How they steer conversations
+- Comfort with silence and pauses
+- Interruption patterns
+- Redirecting when bored or uninterested
+
+### CONFLICT COMMUNICATION
+
+**Conflict Style:**
+- Avoidant (withdraw, ignore)
+- Accommodating (give in, keep peace)
+- Competitive (win, dominate)
+- Compromising (meet halfway)
+- Collaborative (problem-solve together)
+
+**Difficult Conversation Approach:**
+- How they initiate hard conversations
+- Tone and language in conflict
+- Escalation vs. de-escalation patterns
+- Resolution-seeking behavior
+
+### AUTHENTICITY & ADAPTATION
+
+**Authentic Voice:**
+- When do they sound most genuine?
+- When do they perform or filter?
+- Consistency across contexts
+
+**Communication Adaptation:**
+- How much do they adjust style for audience?
+- Code-switching ability
+- When they refuse to adapt
+
+## KEY INVESTIGATION AREAS
+
+Look for evidence in:
+- Q16: Lead conversations vs. listen
+- Q31: How colleagues would describe you
+- Q32: Preferred communication method
+- Q33: Communication style description
+- Q34: How you ensure others understand expectations
+- Q35: Recent conflict handling
+- Q36: Comfort with public speaking
+- Q39: Reserved vs. expressive
+- Q40: How you resolve misunderstandings
+- Q55: How you convince/persuade others
+
+**CRITICAL: Analyze the linguistic patterns in ALL their answers:**
+- What words do they use repeatedly?
+- How do they structure their thoughts?
+- What's their natural rhythm and flow?
+- How do they express emotion?
+- What metaphors or frameworks do they use?
+
+## OUTPUT STRUCTURE
+
+Write the section using this structure:
+
+---
+
+# SECTION 7: COMMUNICATION & INFLUENCE STRATEGIES
+
+## 7.1 Your Communication Channel Preferences
+
+[2 paragraphs analyzing channel selection. Include:]
+- Your preferred communication channels in priority order
+- Why you prefer certain channels and avoid others
+- How effective you are across different mediums
+- **Quote your statements about communication preferences**
+
+## 7.2 Your Rhetorical Style: How You Communicate
+
+[3 paragraphs defining communication approach. Include:]
+- Your core communication style (direct, diplomatic, analytical, emotional, etc.)
+- Level of directness and assertiveness
+- When your style shifts based on context or audience
+- Strengths and limitations of your approach
+- **Quote examples showing your communication style**
+
+## 7.3 Your Linguistic Signature: The Way You Speak
+
+[4-5 paragraphs - THIS IS CRITICAL - deep linguistic analysis. Include:]
+
+**Your Vocabulary Patterns:**
+- Specific words and phrases you use frequently (quote extensively)
+- Domain language and terminology you favor
+- Emotional vocabulary sophistication
+- Abstract vs. concrete language preference
+
+**Your Sentence Structure:**
+- Typical sentence construction (short/long, simple/complex)
+- Organization pattern (linear, associative, stream-of-consciousness)
+- Lists and sequential thinking usage
+
+**Your Tone Characteristics:**
+- Intensity level in your natural expression
+- Enthusiasm and energy in your language
+- Confidence markers and hesitation patterns
+- Warmth, humor, and emotional coloring
+
+**Your Speech Rhythm:**
+- Pacing and flow of your natural communication
+- Thinking-out-loud vs. pre-formulated expression
+- Self-correction and self-interruption patterns
+- Qualifiers you use ("I think," "probably," "definitely")
+
+**Your Metaphors & Frameworks:**
+- Recurring metaphors or imagery you use
+- Conceptual frameworks that shape your language
+- How you make abstract ideas concrete
+
+**[Extract and quote extensively from their actual answers to demonstrate these patterns]**
+
+## 7.4 Your Conversational Dynamics: Leading vs. Listening
+
+[2-3 paragraphs analyzing conversation behavior. Include:]
+- Whether you typically lead or follow in conversations
+- How much space you give others to speak
+- Your question-asking patterns and listening quality
+- How you steer topics and redirect conversations
+- **Use specific examples of conversation management**
+
+## 7.5 Your Persuasion & Influence Strategies
+
+[3-4 paragraphs analyzing influence approach. Include:]
+- Primary influence mode (logic, emotion, authority, relationship, vision)
+- How you build your case when you need to convince someone
+- Tactics you use to overcome resistance
+- Pressure vs. invitation balance
+- Influence effectiveness and blind spots
+- **Quote your description of how you persuade and the specific example you gave**
+
+## 7.6 Your Communication in Conflict: The Hard Conversations
+
+[3 paragraphs analyzing conflict communication. Include:]
+- Your conflict communication style (avoid, accommodate, compete, compromise, collaborate)
+- How you initiate difficult conversations
+- Tone, language, and approach when in conflict
+- Escalation vs. de-escalation patterns
+- How you work toward resolution
+- **Use your conflict example as primary evidence**
+
+## 7.7 Your Authenticity & Adaptation: Real vs. Performed
+
+[2 paragraphs on communication authenticity. Include:]
+- When you sound most genuine and authentic
+- When you filter, perform, or adjust your communication
+- How much you adapt for different audiences
+- Consistency of your voice across contexts
+
+## 7.8 Your Communication Blind Spots & Growth Edge
+
+[2 paragraphs on development areas. Include:]
+- Communication patterns that may limit effectiveness
+- How others might experience your communication differently than you intend
+- Areas where communication skills could evolve
+- What greater communication range would unlock
+
+## 7.9 Key Communication Patterns Summary
+
+[Bullet-point summary of 5-7 core communication patterns, each with 1-2 sentence explanation]
+
+
+<<common_instructions>>
+
+---
+
+## WRITING REQUIREMENTS
+
+### AUDIENCE & VOICE
+- **Write directly to the subject using second person ("you," "your")**
+- This is THEIR mirror profile—they are reading about themselves
+- Example: "Your communication style is...", "You speak with...", "Your linguistic signature includes..."
+- Make it feel like someone is playing back their own voice to them
+
+### DEPTH & NUANCE
+- Section 7.3 (Linguistic Signature) is CRITICAL - spend the most depth here
+- Extract and quote extensively from their actual answers to show patterns
+- Go beyond content to capture HOW they express themselves
+- Make them recognize their own voice immediately
+
+### EVIDENCE-BASED
+- Quote directly and extensively from their answers (use quotation marks with no question reference)
+- **DO NOT include question references like (Q32) or (Q55)**
+- Weave quotes naturally: You frequently use phrases like "..." and "..."
+- Show linguistic patterns by quoting multiple examples
+- Use their persuasion example as central evidence
+
+### TONE
+- Appreciative of their communication strengths
+- Honest about communication patterns that may limit effectiveness
+- Like a communication coach who has studied their speaking patterns deeply
+- Capture the energy and personality in their communication
+
+### AUTHENTICITY
+- **THIS IS THE MOST IMPORTANT SECTION FOR CAPTURING THEIR VOICE**
+- Use extensive direct quotes to demonstrate patterns
+- Preserve their exact phrasing and word choice
+- Show their rhythm, intensity, and style
+- Make this section feel like a mirror of how they actually speak
+
+### INTEGRATION
+- Connect communication to leadership impact (Section 5)
+- Link to emotional expression (Section 4)
+- Show how communication serves or violates values (Section 2)
+- Preview how they communicate goals (Section 8)
+
+## CRITICAL STANDARDS
+
+<<common_includes>>
+✅ **EXTENSIVE quotes throughout, especially in section 7.3 (Linguistic Signature)**
+✅ **Captures HOW they speak, not just what they say**
+✅ **Identifies specific, recurring vocabulary and phrases**
+✅ **Analyzes sentence structure, tone, rhythm, and flow**
+✅ **Makes them recognize their own voice immediately**
+✅ **Uses their persuasion example as evidence**
+
+## WHAT TO AVOID
+
+❌ Generic communication style descriptions
+❌ Not quoting enough from their actual answers
+❌ Missing the linguistic patterns that make their voice unique
+❌ Focusing only on channel preference without deep language analysis
+❌ Failing to capture their rhythm, intensity, and expression style
+❌ Not analyzing the persuasion example they provided
+❌ Ignoring how they actually speak in conflict vs. how they say they speak
+
+## KEY ANALYTICAL QUESTIONS TO ANSWER
+
+As you write, ensure you address:
+1. What are their preferred communication channels and why?
+2. What is their core rhetorical style (direct, diplomatic, etc.)?
+3. **What specific words, phrases, and patterns make their voice unique?**
+4. **What is their sentence structure and speech rhythm?**
+5. **What tone, intensity, and emotional quality characterizes their communication?**
+6. How do they lead vs. listen in conversations?
+7. What strategies do they use to persuade and influence?
+8. How does their communication shift in conflict situations?
+
+## INPUTS
+
+MASTER_EXTRACTION:
+
+<<master_extraction>>
+
+QUESTION_ANSWERS:
+
+<<question_answers>>
+
+## BEGIN ANALYSIS
+
+Write Section 7: Communication & Influence Strategies now.

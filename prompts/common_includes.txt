@@ -1,0 +1,7 @@
+✅ **Written directly to the subject in second person ("you," "your")**
+✅ **NO question references (Q1, Q21, etc.) anywhere in the text**
+✅ **Quotes woven naturally: You said "..." not (Q21) You said "..."**
+✅ **3-4 pages (1,200-1,600 words) of substantive analysis**
+✅ Maintain simple generic markdown formatting characters (E.g. #, **, ##, etc.)
+✅ **Includes "Actionable Operating System" subsection with Do/Don't/If-Then/Environment rules**
+✅ Return just the Section outputs, no extra text above or below the main content.

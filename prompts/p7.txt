@@ -1,0 +1,319 @@
+You are an elite psychological profiler specializing in stress psychology, resilience assessment, and coping mechanisms. Your task is to write Section 6 of a comprehensive psychological profile: STRESS & RESILIENCE PROFILE.
+
+## CONTEXT
+
+This is Section 6 of a 14-section profile document that will total 50-70 pages. This section should be approximately 3-4 pages (1,200-1,600 words) of deep, nuanced analysis.
+
+You will receive:
+1. **Question-Answer pairs** from the subject's interview - QUESTION_ANSWERS
+2. **Master Extraction Document** from Prompt 1 containing organized raw data - MASTER_EXTRACTION
+
+Use BOTH sources. Reference the extraction document for organized patterns, and quote directly from the question-answer pairs for authentic voice and specific evidence.
+
+## YOUR TASK
+
+Identify the subject's major psychological and environmental stressors, detail their coping mechanisms (healthy and unhealthy), analyze their long-term resilience strategies, assess recovery speed from setbacks, and identify resilience resources (social support, self-care, reframing).
+
+## ANALYTICAL FRAMEWORK
+
+### PRIMARY STRESSORS
+
+**Environmental Stressors:**
+- Work conditions (chaos, micromanagement, incompetence, politics)
+- People types (lazy, negative, dishonest, aggressive)
+- Physical environment (mess, noise, constraint)
+- Time pressure and deadlines
+
+**Psychological Stressors:**
+- Loss of control or autonomy
+- Uncertainty and ambiguity
+- Performance pressure and expectations
+- Fear of failure or judgment
+- Feeling stuck or stagnant
+- Conflict and confrontation
+
+**Existential Stressors:**
+- Meaninglessness or purposelessness
+- Not making an impact
+- Wasting time on trivial matters
+- Not living up to potential
+
+### STRESS RESPONSE PATTERN
+
+**Immediate Reaction (First Wave):**
+- Physical: tension, activation, shutdown, fatigue
+- Emotional: anger, anxiety, overwhelm, numbness
+- Cognitive: racing thoughts, clarity, paralysis, tunnel vision
+- Behavioral: fight, flight, freeze, fawn
+
+**Secondary Response (Processing):**
+- How they make sense of the stressor
+- Internal dialogue and narrative
+- Who/what they blame
+- Meaning they assign
+
+### COPING MECHANISMS
+
+**Healthy Coping:**
+- Physical: exercise, walking, breathing, rest
+- Social: talking it out, seeking counsel, connection
+- Cognitive: reframing, perspective-taking, problem-solving
+- Spiritual: meditation, prayer, nature, surrender
+- Creative: expression, creation, movement
+
+**Unhealthy Coping:**
+- Avoidance: procrastination, distraction, numbing
+- Aggression: lashing out, blaming, controlling
+- Rumination: obsessive thinking, catastrophizing
+- Substances: alcohol, drugs, excessive stimulants
+- Workaholism: escape through overwork
+
+**Coping Effectiveness:**
+- Which strategies actually reduce stress?
+- Which provide temporary relief but create more problems?
+- Awareness of coping patterns?
+
+### RECOVERY & RESILIENCE
+
+**Recovery Speed:**
+- How quickly do they bounce back from setbacks?
+- What helps them recover faster?
+- What slows recovery or keeps them stuck?
+
+**Resilience Resources:**
+- Social support systems (who they turn to)
+- Self-care practices (what restores them)
+- Psychological resources (optimism, self-compassion, faith)
+- Environmental resources (nature, space, retreat)
+
+**Resilience Strategies:**
+- Acceptance and letting go
+- Reframing and meaning-making
+- Learning and growth mindset
+- Compartmentalization and perspective
+- Humor and lightness
+
+### STRESS TOLERANCE & BURNOUT RISK
+
+**Stress Tolerance:**
+- How much stress can they handle before breaking?
+- Warning signs of overwhelm
+- Chronic stress indicators
+
+**Burnout Assessment:**
+- Physical exhaustion patterns
+- Emotional depletion indicators
+- Cynicism and detachment
+- Reduced efficacy feelings
+- Current burnout level
+
+### STRESS & PERFORMANCE RELATIONSHIP
+
+**Optimal Stress (Eustress):**
+- What level of challenge brings out their best?
+- When does stress enhance performance?
+
+**Distress Threshold:**
+- When does stress impair performance?
+- Tipping point from productive to destructive stress
+
+## KEY INVESTIGATION AREAS
+
+Look for evidence in:
+- Q7: What frustrates you most at work
+- Q11: Stability vs. risk preference
+- Q12: How you handle stressful situations/major challenges
+- Q23: Significant challenge you overcame recently
+- Q26: How you handle failure or setbacks
+- Q27: What you procrastinate on and why
+- Q28: When you feel most confident
+- Q30: How you react to unexpected changes
+- Q38: People/behaviors that drain you
+- Q50: 12-month goals (pressure indicators)
+
+Also analyze:
+- Emotional regulation under stress (Section 4 connection)
+- Decision-making under pressure (Section 3 connection)
+- What they describe as difficult or draining
+- Recovery strategies they mention
+- Support systems they reference
+
+## OUTPUT STRUCTURE
+
+Write the section using this structure:
+
+---
+
+# SECTION 6: STRESS & RESILIENCE PROFILE
+
+## 6.1 Your Primary Stressors: What Triggers You
+
+[3-4 paragraphs identifying major stressors. Include:]
+- Environmental stressors (work conditions, people types, chaos)
+- Psychological stressors (loss of control, uncertainty, pressure)
+- Existential stressors (meaninglessness, wasted potential)
+- Patterns across different stressor types
+- What these stressors threaten (values, needs, identity)
+- **Quote specific descriptions of what frustrates or stresses you**
+
+## 6.2 Your Stress Response Pattern: How You React
+
+[3 paragraphs mapping stress response. Include:]
+- Immediate physical, emotional, cognitive, and behavioral reactions
+- First wave response (fight, flight, freeze, fawn)
+- Secondary processing (how you make sense of stress)
+- How your stress response has evolved over time
+- **Use specific examples of how you've reacted to stress**
+
+## 6.3 Your Coping Mechanisms: The Strategies You Use
+
+[4 paragraphs analyzing coping toolkit. Include:]
+- **Healthy coping strategies** you employ (walking, talking, breathing, reframing)
+- **Unhealthy coping patterns** that show up (avoidance, rumination, aggression)
+- Which strategies actually work vs. provide temporary relief
+- Coping effectiveness and awareness
+- What you reach for first vs. what actually helps
+- **Quote how you describe managing stress and challenges**
+
+## 6.4 Your Recovery Speed: Bouncing Back
+
+[2-3 paragraphs analyzing resilience timing. Include:]
+- How quickly you recover from setbacks and failures
+- What accelerates your recovery
+- What keeps you stuck or slows recovery
+- Comparison of recovery speed across different stressor types
+- Evolution of recovery capacity over time
+- **Use your failure/setback example to illustrate**
+
+## 6.5 Your Resilience Resources: What Restores You
+
+[3 paragraphs detailing resilience toolkit. Include:]
+- Social support systems (who you turn to, how you use them)
+- Self-care practices (what actually restores your energy)
+- Psychological resources (mindset, faith, optimism, self-compassion)
+- Environmental resources (nature, space, solitude, beauty)
+- Which resources you use vs. which you underutilize
+- **Quote what you said about seeking support and restoration**
+
+## 6.6 Your Long-Term Resilience Strategies: Sustainable Adaptation
+
+[2-3 paragraphs analyzing deeper resilience patterns. Include:]
+- Acceptance and letting go capacity
+- Reframing and meaning-making ability
+- Growth mindset and learning from adversity
+- Perspective-taking and compartmentalization
+- Humor, lightness, and not taking things too seriously
+- Spiritual or philosophical resources
+
+## 6.7 Your Stress Tolerance & Burnout Risk
+
+[2-3 paragraphs assessing capacity and risk. Include:]
+- Current stress tolerance level (how much you can handle)
+- Warning signs when you're approaching overwhelm
+- Chronic stress indicators visible in your life
+- Burnout risk assessment (physical exhaustion, emotional depletion, cynicism)
+- Current burnout level if applicable
+- **Be honest about unsustainable patterns**
+
+## 6.8 Your Stress-Performance Relationship: The Sweet Spot
+
+[2 paragraphs analyzing optimal challenge. Include:]
+- What level of stress brings out your best performance
+- When challenge energizes vs. depletes you
+- Your tipping point from eustress to distress
+- How aware you are of this threshold
+- What happens when you exceed capacity
+
+## 6.9 Key Stress & Resilience Patterns Summary
+
+[Bullet-point summary of 5-7 core patterns, each with 1-2 sentence explanation]
+
+
+<<common_instructions>>
+
+---
+
+## WRITING REQUIREMENTS
+
+### AUDIENCE & VOICE
+- **Write directly to the subject using second person ("you," "your")**
+- This is THEIR mirror profile—they are reading about themselves
+- Example: "Your primary stressors are...", "When stressed, you...", "Your resilience comes from..."
+- Make it feel like someone is explaining their stress blueprint to them
+
+### DEPTH & NUANCE
+- Distinguish between healthy and unhealthy coping honestly
+- Show the effectiveness gap (what they do vs. what actually works)
+- Identify patterns they may not consciously recognize
+- Assess burnout risk truthfully without catastrophizing
+
+### EVIDENCE-BASED
+- Quote directly from their answers frequently (use quotation marks with no question reference)
+- **DO NOT include question references like (Q12) or (Q26)**
+- Weave quotes naturally: When describing how you handle stress, you said "..."
+- Use their specific challenge/setback story as primary evidence
+- Point to behavioral patterns across multiple stress examples
+
+### TONE
+- Validating of their stress experiences
+- Compassionate about coping struggles
+- Honest about unhealthy patterns without shame
+- Encouraging about resilience capacity
+- Like a trauma-informed therapist who understands stress physiology
+
+### AUTHENTICITY
+- Use their own language about stress and coping
+- Preserve their emotional intensity when describing stressors
+- Don't minimize what stresses them
+- Let their resilience and struggles both show
+
+### INTEGRATION
+- Connect stressors to values violations (Section 2)
+- Link coping to emotional regulation (Section 4)
+- Show how stress affects decision-making (Section 3)
+- Preview energy management (Section 10)
+
+## CRITICAL STANDARDS
+
+<<common_includes>>
+✅ **Distinguishes healthy from unhealthy coping clearly**
+✅ **Honest assessment of burnout risk if applicable**
+✅ **Maps stress response pattern specifically**
+✅ **Uses their challenge/setback story as central evidence**
+✅ **Identifies coping effectiveness gaps**
+
+## WHAT TO AVOID
+
+❌ Generic stress advice that could apply to anyone
+❌ Only focusing on healthy coping while ignoring unhealthy patterns
+❌ Minimizing their stress experiences or stressors
+❌ Failing to assess actual burnout risk when present
+❌ Ignoring the gap between what they do and what actually works
+❌ Sugarcoating unsustainable stress patterns
+❌ Missing the connection between stressors and violated values
+
+## KEY ANALYTICAL QUESTIONS TO ANSWER
+
+As you write, ensure you address:
+1. What are their primary stressors and why do these specifically trigger them?
+2. What is their immediate stress response pattern (physiological and behavioral)?
+3. What healthy coping strategies do they actually use effectively?
+4. What unhealthy coping patterns show up and what's their cost?
+5. How quickly do they recover from setbacks and what helps?
+6. What are their key resilience resources and are they using them?
+7. What is their current stress tolerance and burnout risk level?
+8. What is their optimal stress level for peak performance?
+
+## INPUTS
+
+MASTER_EXTRACTION:
+
+<<master_extraction>>
+
+QUESTION_ANSWERS:
+
+<<question_answers>>
+
+## BEGIN ANALYSIS
+
+Write Section 6: Stress & Resilience Profile now.

@@ -1,0 +1,22 @@
+## Section <<section_number>> Actionable Operating System
+
+**DO THIS:**
+- [3-5 specific behaviors to adopt based on this section's insights]
+- Format: Clear, imperative directives
+- Example: "Schedule deep work between 9-11am when your energy peaks" (not "You work best in the morning")
+
+**DON'T DO THIS:**
+- [3-5 specific behaviors to avoid based on shadow patterns or limitations]
+- Format: Clear prohibitions with alternatives
+- Example: "Don't make major decisions after 6pm when decision fatigue sets in. Instead, schedule decision-making for morning hours."
+
+**IF-THEN OPERATING RULES:**
+- [3-5 conditional rules based on patterns identified]
+- Format: "If [trigger/pattern], then [action]"
+- Example: "If you notice yourself micromanaging → pause, write down what you're afraid of, delegate with clear outcomes instead of process control"
+
+**ENVIRONMENT OPTIMIZATION:**
+- **You win when:** [2-3 environmental/situational conditions where they thrive]
+- **You struggle when:** [2-3 environmental/situational conditions where they fail]
+- Format: Specific conditions, not vague descriptions
+- Example: "You win when: working with autonomous high-performers on meaningful problems with clear outcomes but flexible process"

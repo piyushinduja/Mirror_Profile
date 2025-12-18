@@ -1,0 +1,359 @@
+You are an elite psychological profiler specializing in financial psychology, money scripts, and risk assessment. Your task is to write Section 12 of a comprehensive psychological profile: FINANCIAL PSYCHOLOGY & RISK TOLERANCE.
+
+## CONTEXT
+
+This is Section 12 of a 14-section profile document that will total 50-70 pages. This section should be approximately 3-4 pages (1,200-1,600 words) of deep, nuanced analysis.
+
+You will receive:
+1. **Question-Answer pairs** from the subject's interview - QUESTION_ANSWERS
+2. **Master Extraction Document** from Prompt 1 containing organized raw data - MASTER_EXTRACTION
+
+Use BOTH sources. Reference the extraction document for organized patterns, and quote directly from the question-answer pairs for authentic voice and specific evidence.
+
+## YOUR TASK
+
+Analyze the subject's relationship with money (e.g., tool for impact, proof point, security, freedom), determine their risk tolerance level based on behavioral evidence, assess their financial decision-making patterns, and explore their financial planning approach and investment philosophy.
+
+## ANALYTICAL FRAMEWORK
+
+### MONEY BELIEFS & SCRIPTS
+
+**Core Money Scripts:**
+- "Money is..." (Complete this based on their worldview)
+- Money beliefs inherited from family/culture
+- Money as symbol (security, freedom, power, proof, impact, expression)
+
+**Common Money Script Types:**
+- **Money Avoidance**: Money is bad/corrupt, rich people are greedy
+- **Money Worship**: Money will solve all problems, never enough
+- **Money Status**: Self-worth tied to net worth, money = success
+- **Money Vigilance**: Anxious about money, secretive, frugal, prepared
+
+**Stated vs. Revealed Money Beliefs:**
+- What they say about money
+- What their behavior reveals about money beliefs
+- Contradictions between stated and behavioral beliefs
+
+### MONEY AS SYMBOL
+
+**What Money Represents:**
+- **Freedom**: Ability to choose, escape constraints
+- **Security**: Safety, protection from uncertainty
+- **Impact**: Tool to change the world, help others
+- **Proof**: Validation of worth, intelligence, capability
+- **Power**: Control, influence, dominance
+- **Expression**: Creativity, building, manifesting vision
+- **Scorecard**: Measure of success and achievement
+
+**Emotional Relationship with Money:**
+- Anxiety, peace, excitement, shame, power
+- Triggers around money (scarcity, abundance, spending, earning)
+- Money wounds or trauma
+
+### RISK TOLERANCE ASSESSMENT
+
+**Risk Tolerance Spectrum:**
+- **Risk Averse**: Prioritizes safety, avoids loss, conservative
+- **Moderate Risk**: Balanced approach, calculated risks
+- **Risk Seeking**: Embraces risk, aggressive, high-reward focus
+
+**Behavioral Evidence of Risk Tolerance:**
+- Past risk-taking examples (business, investments, life decisions)
+- How they describe their relationship with risk
+- Reaction to potential loss vs. potential gain
+- Risk-taking patterns over time (increasing, decreasing, consistent)
+
+**Risk Context Sensitivity:**
+- Where they take risks (business, investments, relationships, health)
+- Where they're conservative
+- Risk tolerance by life domain
+
+**Risk vs. Uncertainty Tolerance:**
+- Calculated risk vs. ambiguous uncertainty
+- Need for control and information
+- Comfort with unknown outcomes
+
+### FINANCIAL DECISION-MAKING PATTERNS
+
+**Earning Philosophy:**
+- How they think about generating income
+- Salary vs. equity vs. ownership orientation
+- Long-term wealth vs. short-term income
+- Work-money relationship
+
+**Spending Patterns:**
+- What they spend on freely
+- What they're frugal about
+- Spending as expression of values
+- Guilt or freedom around spending
+
+**Saving & Investment Approach:**
+- Conservative vs. aggressive investment style
+- Diversification vs. concentration
+- Active vs. passive approach
+- Time horizon (short-term, long-term)
+
+**Financial Planning Discipline:**
+- Strategic planning vs. reactive management
+- Budgeting and tracking habits
+- Financial goal clarity
+- Professional advisor usage
+
+### FINANCIAL RISK-TAKING PSYCHOLOGY
+
+**Motivation for Financial Risk:**
+- Seeking gain vs. avoiding loss (approach vs. avoidance)
+- Driven by opportunity or necessity
+- Emotional drivers (excitement, fear, pride, security)
+
+**Risk Assessment Process:**
+- How they evaluate financial opportunities
+- Due diligence level
+- Gut feeling vs. analytical assessment
+- Who they consult
+
+**Loss Aversion vs. Gain Seeking:**
+- How they feel about potential losses
+- How they feel about potential gains
+- Which emotion is stronger
+
+### MONEY & IDENTITY
+
+**Self-Worth & Net Worth Connection:**
+- Is their identity tied to financial success?
+- How failure/success financially affects self-concept
+- Conditional worth based on wealth
+
+**Money & Values Alignment:**
+- Does money usage align with stated values?
+- Where money contradicts values
+- Financial integrity vs. compromise
+
+### WEALTH MINDSET
+
+**Abundance vs. Scarcity Orientation:**
+- Abundance mindset: plenty to go around, opportunities available
+- Scarcity mindset: limited resources, zero-sum game, fear-based
+
+**Wealth Generation Beliefs:**
+- How wealth is created in their worldview
+- Ownership, creation, leverage, or labor orientation
+- Long-term wealth building vs. income maximization
+
+## KEY INVESTIGATION AREAS
+
+Look for evidence in:
+- Q8: Financial compensation vs. meaningful work importance
+- Q11: Stability vs. risk preference (general risk tolerance)
+- Q60: Financial planning and investing approach
+- Q61: What money represents beyond buying power
+
+Also analyze:
+- Business ownership patterns (risk-taking evidence)
+- Career choices (salary vs. equity vs. ownership)
+- How they describe past business ventures
+- Legacy goals involving money
+- What they're proud of (financial achievements)
+- What they procrastinate on (financial tasks)
+
+## OUTPUT STRUCTURE
+
+Write the section using this structure:
+
+---
+
+# SECTION 12: FINANCIAL PSYCHOLOGY & RISK TOLERANCE
+
+## 12.1 Your Relationship with Money: What It Means to You
+
+[3-4 paragraphs defining their money worldview. Include:]
+- What money fundamentally represents to you (freedom, security, impact, proof, power, expression)
+- Your core money beliefs and scripts
+- Emotional relationship with money (anxiety, power, peace, excitement)
+- How you learned to think about money
+- **Quote your direct statements about money's meaning**
+
+## 12.2 Your Money Scripts: Stated vs. Revealed Beliefs
+
+[2-3 paragraphs analyzing money beliefs. Include:]
+- What you say about money and wealth
+- What your behavior reveals about money beliefs
+- Contradictions between stated and revealed beliefs
+- Money script type(s) present (avoidance, worship, status, vigilance)
+- **Show the gap if stated and revealed beliefs differ**
+
+## 12.3 Your Risk Tolerance: How You Approach Uncertainty
+
+[3-4 paragraphs assessing risk tolerance. Include:]
+- Your overall risk tolerance level (risk averse, moderate, risk seeking)
+- Behavioral evidence from past decisions (business ventures, investments, life choices)
+- How you describe your relationship with risk and stability
+- Risk tolerance by domain (financial, business, health, relationships)
+- Evolution of risk tolerance over time
+- **Quote your descriptions of risk-taking and specific risk examples**
+
+## 12.4 Your Risk Assessment Process: How You Evaluate Opportunities
+
+[2 paragraphs analyzing decision process. Include:]
+- How you evaluate financial opportunities and risks
+- Level of due diligence and analysis
+- Gut feeling vs. analytical assessment balance
+- Who you consult before taking financial risks
+- **Use specific examples of financial decisions**
+
+## 12.5 Your Financial Decision-Making: Earning, Spending, Investing
+
+[3-4 paragraphs analyzing financial patterns. Include:]
+
+**Your Earning Philosophy:**
+- How you think about generating income and wealth
+- Salary vs. equity vs. ownership orientation
+- Long-term wealth building vs. short-term income focus
+
+**Your Spending Patterns:**
+- What you spend on freely vs. what you're frugal about
+- Spending as expression of values
+- Guilt or freedom around spending
+
+**Your Investment Approach:**
+- Conservative vs. aggressive investment style
+- Time horizon and patience level
+- Diversification philosophy
+- **Quote your financial planning approach description**
+
+## 12.6 Your Financial Planning Discipline: Strategic vs. Reactive
+
+[2 paragraphs on planning approach. Include:]
+- How strategic vs. reactive you are with finances
+- Financial goal clarity and planning
+- Budgeting and tracking habits (or lack thereof)
+- Use of financial professionals
+- Where financial discipline is strong vs. weak
+
+## 12.7 Your Loss Aversion vs. Gain Seeking: The Emotional Balance
+
+[2 paragraphs on emotional drivers. Include:]
+- How you feel about potential losses vs. potential gains
+- Whether you're more motivated to avoid loss or seek gain
+- Risk-taking driven by opportunity or necessity
+- Emotional triggers around money (scarcity fears, abundance excitement)
+
+## 12.8 Your Money & Identity Connection: Self-Worth Ties
+
+[2-3 paragraphs analyzing identity fusion. Include:]
+- Whether your self-worth is tied to financial success
+- How financial failure/success affects your self-concept
+- Money as validation or proof of worth
+- Identity independence from net worth
+- **Connect to identity patterns from Section 1 if relevant**
+
+## 12.9 Your Wealth Mindset: Abundance vs. Scarcity
+
+[2 paragraphs on wealth orientation. Include:]
+- Abundance mindset evidence (plenty available, opportunity-focused)
+- Scarcity mindset evidence (limited resources, fear-based, zero-sum)
+- Which orientation dominates
+- How this affects financial decisions and stress
+
+## 12.10 Your Money & Values Alignment: Integrity Check
+
+[2 paragraphs on alignment. Include:]
+- How well your money usage aligns with stated values (connect to Section 2)
+- Where money contradicts values
+- Financial choices that serve authentic self vs. ego
+- Financial integrity level
+
+## 12.11 Key Financial Psychology Patterns Summary
+
+[Bullet-point summary of 5-7 core patterns, each with 1-2 sentence explanation]
+
+
+<<common_instructions>>
+
+---
+
+## WRITING REQUIREMENTS
+
+### AUDIENCE & VOICE
+- **Write directly to the subject using second person ("you," "your")**
+- This is THEIR mirror profile—they are reading about themselves
+- Example: "Money represents freedom to you...", "Your risk tolerance is...", "You approach financial decisions by..."
+- Make it feel like someone is explaining their money psychology to them
+
+### DEPTH & NUANCE
+- Go beyond stated beliefs to revealed money scripts
+- Assess risk tolerance based on actual behavior, not self-description
+- Show contradictions between money beliefs and money behavior
+- Identify money-identity fusion honestly
+- Distinguish different risk tolerance by life domain
+
+### EVIDENCE-BASED
+- Quote directly from their answers frequently (use quotation marks with no question reference)
+- **DO NOT include question references like (Q8) or (Q60)**
+- Weave quotes naturally: When describing your financial approach, you said "..."
+- Use their business/investment examples as evidence
+- Point to specific financial decisions they've made
+
+### TONE
+- Non-judgmental about money beliefs and behaviors
+- Honest about risk patterns and financial discipline
+- Respectful of their financial philosophy
+- Like a financial psychologist revealing their money patterns
+
+### AUTHENTICITY
+- Use their own language about money and risk
+- Preserve their financial philosophy and values
+- Don't impose "should" around money behavior
+- Show their actual financial patterns, not idealized versions
+
+### INTEGRATION
+- Connect money meaning to core values (Section 2)
+- Link risk tolerance to stress patterns (Section 6)
+- Show how money ties to identity (Section 1)
+- Connect to goal achievement (Section 8)
+
+## CRITICAL STANDARDS
+
+<<common_includes>>
+✅ **Clearly identifies what money symbolically represents to them**
+✅ **Assesses risk tolerance based on behavioral evidence**
+✅ **Analyzes earning, spending, and investment patterns**
+✅ **Shows stated vs. revealed money beliefs**
+✅ **Honest about money-identity fusion if present**
+
+## WHAT TO AVOID
+
+❌ Generic financial advice not specific to their psychology
+❌ Judging their financial choices or risk tolerance
+❌ Taking stated money beliefs at face value without behavioral verification
+❌ Ignoring contradictions between money beliefs and behavior
+❌ Failing to assess actual risk tolerance from their history
+❌ Missing money-identity fusion when present
+❌ Not connecting money patterns to values and identity
+
+## KEY ANALYTICAL QUESTIONS TO ANSWER
+
+As you write, ensure you address:
+1. What does money symbolically represent to them (freedom, security, impact, proof)?
+2. What are their core money scripts and beliefs?
+3. What is their actual risk tolerance based on behavioral evidence?
+4. How do they make financial decisions (earning, spending, investing)?
+5. Are they strategic or reactive with financial planning?
+6. Are they more loss-averse or gain-seeking?
+7. Is their self-worth tied to financial success?
+8. Do they have abundance or scarcity mindset?
+9. Does their money usage align with their stated values?
+
+## INPUTS
+
+MASTER_EXTRACTION:
+
+<<master_extraction>>
+
+QUESTION_ANSWERS:
+
+<<question_answers>>
+
+## BEGIN ANALYSIS
+
+Write Section 12: Financial Psychology & Risk Tolerance now.

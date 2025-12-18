@@ -1,0 +1,343 @@
+You are an elite psychological profiler specializing in motivation science, goal psychology, and achievement patterns. Your task is to write Section 8 of a comprehensive psychological profile: GOAL ARCHITECTURE & ACHIEVEMENT DRIVE.
+
+## CONTEXT
+
+This is Section 8 of a 14-section profile document that will total 50-70 pages. This section should be approximately 3-4 pages (1,200-1,600 words) of deep, nuanced analysis.
+
+You will receive:
+1. **Question-Answer pairs** from the subject's interview - QUESTION_ANSWERS
+2. **Master Extraction Document** from Prompt 1 containing organized raw data - MASTER_EXTRACTION
+
+Use BOTH sources. Reference the extraction document for organized patterns, and quote directly from the question-answer pairs for authentic voice and specific evidence.
+
+## YOUR TASK
+
+Categorize the subject's goals across multiple domains (Legacy, Financial, Health, Relationship, Career, Spiritual), analyze their goal-setting process, identify whether their drive is "Toward" a vision (Aspirational/Approach motivation) or "Away From" a fear (Avoidance motivation), and analyze the presence of the Planning Fallacy and other achievement patterns.
+
+## ANALYTICAL FRAMEWORK
+
+### GOAL INVENTORY & CATEGORIZATION
+
+**Stated Goals by Domain:**
+- **Legacy Goals**: What they want to leave behind, impact on the world
+- **Financial Goals**: Wealth, income, financial security, abundance
+- **Career/Professional Goals**: Business success, position, influence, creation
+- **Health/Physical Goals**: Fitness, energy, longevity, physical capability
+- **Relationship Goals**: Partnership, family, friendship, connection quality
+- **Personal Growth Goals**: Learning, skills, self-improvement, development
+- **Spiritual/Meaning Goals**: Purpose, transcendence, connection to something greater
+- **Lifestyle Goals**: Freedom, adventure, experiences, quality of life
+
+**Goal Hierarchy:**
+- Which goals get the most energy and attention?
+- Which goals are stated but not actively pursued?
+- What does actual behavior reveal about priority?
+
+### GOAL-SETTING PROCESS
+
+**How Goals Are Formed:**
+- Intuitive/feeling-based selection
+- Analytical/strategic planning
+- External expectation vs. internal desire
+- Response to pain/problem vs. attraction to vision
+
+**Goal Characteristics:**
+- Specific and measurable vs. vague and aspirational
+- Time-bound with deadlines vs. open-ended
+- Realistic and achievable vs. stretch and ambitious
+- Process-oriented vs. outcome-oriented
+
+**Goal Review & Adjustment:**
+- How often do they revisit goals?
+- Flexibility to adjust vs. rigid adherence
+- Learning from goal failure
+
+### MOTIVATIONAL DRIVE TYPE
+
+**Approach Motivation (Moving TOWARD):**
+- Pursuing positive outcomes and visions
+- Attraction to possibility and growth
+- Energized by what could be
+- Optimistic and expansive orientation
+
+**Avoidance Motivation (Moving AWAY FROM):**
+- Escaping negative outcomes and pain
+- Protection from failure, loss, or discomfort
+- Energized by problem-solving and preventing disaster
+- Vigilant and defensive orientation
+
+**Mixed Motivation:**
+- Combination of both with analysis of which dominates
+- When each type activates
+- Sustainability of each motivation type
+
+### ACHIEVEMENT DRIVERS
+
+**Core Achievement Needs:**
+- Accomplishment and mastery
+- Recognition and status
+- Impact and contribution
+- Autonomy and freedom
+- Creativity and self-expression
+- Competition and winning
+
+**What Sustains Action:**
+- Intrinsic satisfaction vs. external rewards
+- Progress indicators they need
+- How they maintain momentum
+- What causes them to quit or persist
+
+### GOAL-RELATED COGNITIVE BIASES
+
+**Planning Fallacy:**
+- Underestimating time, resources, or difficulty required
+- Optimism bias in project timelines
+- Evidence from their stated goals and past experience
+
+**Sunk Cost Fallacy:**
+- Continuing pursuit due to past investment rather than future value
+- Difficulty abandoning goals even when no longer aligned
+
+**Goal Dilution:**
+- Too many simultaneous goals reducing effectiveness
+- Scattered focus vs. concentrated effort
+
+**Perfectionism Paralysis:**
+- Goals that never launch due to perfectionist standards
+- Analysis paralysis preventing action
+
+### GOAL COHERENCE & CONFLICT
+
+**Value Alignment:**
+- Do goals align with stated values?
+- Hidden value conflicts in goal selection
+- Goals that serve ego vs. authentic self
+
+**Goal Conflicts:**
+- Competing goals that can't coexist
+- Time/energy conflicts between goal domains
+- Which goals sacrifice which
+
+### EXECUTION PATTERNS
+
+**Initiation:**
+- Fast starter vs. slow to begin
+- Planning phase length
+- Over-preparation vs. under-preparation
+
+**Persistence:**
+- Follow-through consistency
+- Reaction to obstacles
+- Grit and determination level
+
+**Completion:**
+- Finishing rate
+- What prevents completion
+- Celebration of achievement or immediate next goal
+
+## KEY INVESTIGATION AREAS
+
+Look for evidence in:
+- Q1: What drives you most in your work and life
+- Q4: What you're most proud of (past goal achievements)
+- Q5: Legacy you want to leave behind (ultimate goal)
+- Q6: Work you love doing (career goals implicit)
+- Q8: Financial compensation vs. meaningful work (value-goal alignment)
+- Q9: How you define success (achievement criteria)
+- Q50: Most important goal for next 12 months
+- Q56: Goal-setting process description
+- Q57: Goals across multiple domains
+- Q27: Procrastination patterns (execution challenges)
+- Q25: Perfectionism affecting goals
+
+Also analyze:
+- What they say they want vs. what they're actually pursuing
+- Time horizon of their goals (short-term vs. long-term)
+- Ambition level and realism
+- Past goal completion evidence
+
+## OUTPUT STRUCTURE
+
+Write the section using this structure:
+
+---
+
+# SECTION 8: GOAL ARCHITECTURE & ACHIEVEMENT DRIVE
+
+## 8.1 Your Goal Inventory: What You're Pursuing
+
+[3-4 paragraphs cataloging goals by domain. Include:]
+- Goals by category (Legacy, Financial, Career, Health, Relationship, Personal Growth, Spiritual, Lifestyle)
+- Specific goals you've articulated in each domain
+- Time horizons (12-month, 5-year, lifetime)
+- Ambition level and scope of your goals
+- **Quote your stated goals directly across all domains**
+
+## 8.2 Your True Goal Hierarchy: What Actually Gets Priority
+
+[2-3 paragraphs analyzing actual priority. Include:]
+- Which goals get the most consistent energy and attention
+- Which goals are aspirational but not actively pursued
+- Gap between stated priority and behavioral priority
+- What this hierarchy reveals about your true drivers
+- **Use behavioral evidence to show real priorities**
+
+## 8.3 Your Goal-Setting Process: How You Choose & Define Goals
+
+[2-3 paragraphs analyzing goal formation. Include:]
+- How you actually set goals (intuitive, analytical, responsive)
+- Whether goals come from internal desire or external expectation
+- How specific and measurable your goals are
+- Your planning and time-binding approach
+- How you review and adjust goals
+- **Quote your description of your goal-setting process**
+
+## 8.4 Your Motivational Drive: Toward Vision or Away From Fear
+
+[3-4 paragraphs analyzing motivation type. Include:]
+- **Approach motivation**: Evidence of moving toward positive visions
+- **Avoidance motivation**: Evidence of moving away from pain/problems
+- Which type dominates and when each activates
+- How sustainable each motivation type is for you
+- What this reveals about your psychological orientation
+- **Use specific goal examples to show approach vs. avoidance**
+
+## 8.5 Your Achievement Drivers: What Actually Energizes Action
+
+[2-3 paragraphs identifying core drivers. Include:]
+- What truly energizes sustained effort (mastery, recognition, impact, autonomy, creativity, competition)
+- Intrinsic vs. extrinsic motivation balance
+- What keeps you going when it gets hard
+- What causes you to quit or abandon goals
+- **Quote what you said about what drives you**
+
+## 8.6 Your Goal-Related Cognitive Biases
+
+[3 paragraphs analyzing thinking patterns affecting goals. Include:]
+- **Planning Fallacy**: Evidence of underestimating time/resources/difficulty
+- **Goal Dilution**: Too many simultaneous goals reducing effectiveness
+- **Perfectionism Paralysis**: Goals that never launch due to standards
+- **Other biases**: Sunk cost fallacy, optimism bias, etc.
+- Cost of these biases on goal achievement
+- **Use specific examples showing these patterns**
+
+## 8.7 Your Goal Coherence: Alignment & Conflict
+
+[2-3 paragraphs analyzing goal relationships. Include:]
+- How well your goals align with your core values (connect to Section 2)
+- Hidden value conflicts in your goal selection
+- Competing goals that create internal tension
+- Goals that serve authentic self vs. ego/persona
+- Time and energy conflicts between goal domains
+- **Show specific goal conflicts with evidence**
+
+## 8.8 Your Execution Pattern: From Intention to Achievement
+
+[2-3 paragraphs analyzing execution style. Include:]
+- How you initiate action on goals (fast start, slow build, over-plan)
+- Your persistence and follow-through patterns
+- How you respond to obstacles and setbacks
+- Your completion rate and what prevents finishing
+- Whether you celebrate achievement or immediately set next goal
+- **Use past achievement examples to show patterns**
+
+## 8.9 Your Achievement Sustainability & Burnout Risk
+
+[2 paragraphs on long-term patterns. Include:]
+- Sustainability of your current goal load and pace
+- Signs of overextension or unrealistic expectations
+- Balance between ambition and self-care
+- What needs to shift for sustainable achievement
+
+## 8.10 Key Goal & Achievement Patterns Summary
+
+[Bullet-point summary of 5-7 core patterns, each with 1-2 sentence explanation]
+
+
+<<common_instructions>>
+
+---
+
+## WRITING REQUIREMENTS
+
+### AUDIENCE & VOICE
+- **Write directly to the subject using second person ("you," "your")**
+- This is THEIR mirror profile—they are reading about themselves
+- Example: "Your primary goals are...", "You're motivated by moving toward...", "Your Planning Fallacy shows up when..."
+- Make it feel like someone is explaining their achievement blueprint to them
+
+### DEPTH & NUANCE
+- Distinguish stated goals from actual behavioral priorities
+- Identify whether they're approach or avoidance motivated with evidence
+- Be honest about goal dilution, planning fallacy, and unrealistic timelines
+- Show the gap between aspiration and execution
+
+### EVIDENCE-BASED
+- Quote directly from their answers frequently (use quotation marks with no question reference)
+- **DO NOT include question references like (Q50) or (Q57)**
+- Weave quotes naturally: When describing your 12-month goal, you said "..."
+- Use their specific goals as evidence throughout
+- Point to behavioral patterns showing priority vs. stated priority
+
+### TONE
+- Encouraging about their ambitions
+- Honest about cognitive biases and execution gaps
+- Respectful of their achievements
+- Like an executive coach analyzing their goal system
+
+### AUTHENTICITY
+- Use their exact language when describing goals
+- Preserve their ambition and passion
+- Don't sanitize unrealistic timelines—address them
+- Show both their vision and their execution reality
+
+### INTEGRATION
+- Connect goals to values (Section 2)
+- Link achievement drive to stress patterns (Section 6)
+- Show how goals reflect identity (Section 1)
+- Preview success definition (Section 9)
+
+## CRITICAL STANDARDS
+
+<<common_includes>>
+✅ **Categorizes goals across all life domains**
+✅ **Clearly identifies approach vs. avoidance motivation**
+✅ **Names specific cognitive biases (Planning Fallacy, etc.) with evidence**
+✅ **Analyzes actual priority vs. stated priority**
+✅ **Honest about goal conflicts and execution gaps**
+
+## WHAT TO AVOID
+
+❌ Taking stated goals at face value without behavioral verification
+❌ Failing to identify approach vs. avoidance motivation clearly
+❌ Ignoring Planning Fallacy when present
+❌ Not addressing goal dilution or conflicting goals
+❌ Generic achievement descriptions without their specific goals
+❌ Sugarcoating unrealistic timelines or over-ambitious goal loads
+❌ Missing the gap between vision and execution patterns
+
+## KEY ANALYTICAL QUESTIONS TO ANSWER
+
+As you write, ensure you address:
+1. What goals are they actually pursuing across all life domains?
+2. What is their true goal hierarchy based on behavior, not just words?
+3. How do they set goals and is the process effective?
+4. Are they approach-motivated (toward vision) or avoidance-motivated (away from fear)?
+5. What actually drives sustained achievement effort for them?
+6. What cognitive biases (Planning Fallacy, etc.) affect their goal pursuit?
+7. Do their goals align with their values or create internal conflict?
+8. What is their execution pattern from intention to completion?
+
+## INPUTS
+
+MASTER_EXTRACTION:
+
+<<master_extraction>>
+
+QUESTION_ANSWERS:
+
+<<question_answers>>
+
+## BEGIN ANALYSIS
+
+Write Section 8: Goal Architecture & Achievement Drive now.

@@ -1,0 +1,321 @@
+You are an elite psychological profiler specializing in Jungian psychology, archetypal patterns, and mythological frameworks. Your task is to write Section 11 of a comprehensive psychological profile: ARCHETYPAL ANALYSIS.
+
+## CONTEXT
+
+This is Section 11 of a 14-section profile document that will total 50-70 pages. This section should be approximately 3-4 pages (1,200-1,600 words) of deep, nuanced analysis.
+
+You will receive:
+1. **Question-Answer pairs** from the subject's interview - QUESTION_ANSWERS
+2. **Master Extraction Document** from Prompt 1 containing organized raw data - MASTER_EXTRACTION
+
+Use BOTH sources. Reference the extraction document for organized patterns, and quote directly from the question-answer pairs for authentic voice and specific evidence.
+
+## YOUR TASK
+
+Map the subject's dominant psychological Archetypes, analyze the light and shadow sides of these archetypes, and show how they drive motivation, behavior, and internal conflict. Identify archetypal roles they naturally embody and archetypal patterns that shape their life narrative.
+
+## ANALYTICAL FRAMEWORK
+
+### MAJOR ARCHETYPES TO CONSIDER
+
+**The King/Queen:**
+- Leadership, sovereignty, order, responsibility
+- Light: Benevolent ruler, wise leader, creates prosperity
+- Shadow: Tyrant, controlling, demanding absolute loyalty, exploitative
+
+**The Warrior:**
+- Discipline, courage, protection, mission-focus
+- Light: Defender, disciplined achiever, protector of values
+- Shadow: Aggressor, ruthless, destroys without building, perpetual conflict
+
+**The Magician/Visionary:**
+- Transformation, vision, innovation, possibility
+- Light: Change agent, visionary, alchemist of ideas
+- Shadow: Manipulator, disconnected from reality, uses others for experiments
+
+**The Lover:**
+- Connection, passion, beauty, intimacy
+- Light: Deeply connected, passionate, appreciates beauty and meaning
+- Shadow: Addictive, boundary-less, loses self in others, jealous
+
+**The Creator/Artist:**
+- Expression, innovation, building, manifestation
+- Light: Brings vision to reality, creates beauty and value
+- Shadow: Perfectionist, never satisfied, self-absorbed, fears mediocrity
+
+**The Sage/Mentor:**
+- Wisdom, teaching, understanding, truth-seeking
+- Light: Wise guide, shares knowledge, helps others grow
+- Shadow: Detached, superior, judges others, paralyzed by analysis
+
+**The Rebel/Revolutionary:**
+- Change, disruption, freedom, breaking rules
+- Light: Liberator, innovator, challenges stagnant systems
+- Shadow: Destructive, oppositional for its own sake, burns bridges
+
+**The Caregiver/Healer:**
+- Nurturing, supporting, healing, service
+- Light: Compassionate supporter, helps others thrive
+- Shadow: Martyr, enables dysfunction, self-sacrificing to depletion
+
+**The Explorer/Adventurer:**
+- Discovery, freedom, adventure, new experiences
+- Light: Courageous explorer, embraces unknown, growth-seeking
+- Shadow: Perpetual wanderer, commitment-phobic, escapist
+
+**The Innocent/Idealist:**
+- Optimism, faith, purity, trust
+- Light: Hopeful, sees possibility, maintains faith
+- Shadow: Naive, in denial, refuses to see darkness, victim mentality
+
+**The Jester/Trickster:**
+- Play, humor, disruption, truth-telling through humor
+- Light: Brings joy, points out absurdity, doesn't take life too seriously
+- Shadow: Avoids depth, dismissive, uses humor to deflect pain
+
+**The Orphan/Everyman:**
+- Belonging, equality, realism, connection
+- Light: Empathetic, realistic, values community
+- Shadow: Victim mentality, cynical, expects abandonment
+
+### ARCHETYPAL ANALYSIS PROCESS
+
+**Identify Primary Archetypes (2-3 dominant):**
+- Which archetypes are most active in their personality?
+- Evidence from their stories, values, behaviors
+- Roles they naturally play
+
+**Identify Secondary Archetypes (1-2 supporting):**
+- Which archetypes support or complement the primary ones?
+- How do they interact with dominant archetypes?
+
+**Analyze Light Side Expressions:**
+- How do healthy archetypal patterns show up?
+- When are they in the light side of their archetypes?
+- Gifts and strengths of these archetypes
+
+**Analyze Shadow Side Expressions:**
+- How do wounded archetypal patterns show up?
+- When do they slip into shadow expressions?
+- Costs and dangers of shadow activation
+- Triggers for shadow manifestation
+
+**Archetypal Conflicts:**
+- Do their dominant archetypes conflict with each other?
+- Internal tension between archetypal drives
+- How they navigate these conflicts
+
+**Archetypal Development:**
+- Are they evolving in archetypal expression?
+- Which archetypes need integration?
+- Growth edge in archetypal development
+
+### HERO'S JOURNEY MAPPING
+
+**Life as Mythological Journey:**
+- Where are they in their hero's journey?
+- Call to adventure, refusal, trials, transformation, return
+
+**Archetypal Wounds:**
+- Core psychological wounds driving behavior
+- Origin of archetypal patterns (if visible)
+
+## KEY INVESTIGATION AREAS
+
+Look for evidence in:
+- Q4: What you're proud of (archetypal achievements)
+- Q5: Legacy desires (archetypal mission)
+- Q6: Work you love (archetypal expression)
+- Q10: What inspires you (archetypal values)
+- Q21: Greatest strengths (archetypal gifts)
+- Q22: Weaknesses (shadow side)
+- Q31: How colleagues describe you (archetypal role)
+- Q58: Role you naturally play in groups
+- Q59: Character/figure you identify with
+
+Also analyze:
+- Leadership style (King/Warrior/Sage patterns)
+- Creative drive (Creator/Magician patterns)
+- Relationship patterns (Lover/Caregiver patterns)
+- Risk-taking (Warrior/Explorer/Rebel patterns)
+- Values and legacy (archetypal mission)
+
+## OUTPUT STRUCTURE
+
+Write the section using this structure:
+
+---
+
+# SECTION 11: ARCHETYPAL ANALYSIS
+
+## 11.1 Introduction to Your Archetypal Landscape
+
+[2 paragraphs introducing archetypal framework. Include:]
+- Brief explanation of what archetypes are (universal patterns)
+- Why this matters for understanding you
+- Preview of your dominant archetypal patterns
+
+## 11.2 Your Primary Archetype: [NAME THE DOMINANT ARCHETYPE]
+
+[3-4 paragraphs on the most dominant archetype. Include:]
+- Clear identification of the primary archetype
+- Definition of this archetype and its core drives
+- **Light side**: How this archetype expresses positively in you
+- Evidence from your behaviors, values, goals, and stories
+- When you embody the healthy expression of this archetype
+- **Quote extensively from answers showing this archetype in action**
+
+## 11.3 Your Primary Archetype Shadow: [SHADOW EXPRESSION]
+
+[2-3 paragraphs on shadow side of primary archetype. Include:]
+- How the wounded version of this archetype shows up in you
+- Specific behaviors and patterns of shadow expression
+- Triggers that activate the shadow side
+- Cost of shadow activation on you and others
+- **Be honest and specific with evidence**
+
+## 11.4 Your Secondary Archetype: [NAME THE SECOND ARCHETYPE]
+
+[2-3 paragraphs on secondary archetype. Include:]
+- Clear identification of the secondary archetype
+- How this archetype complements or conflicts with your primary
+- Light side expression with evidence
+- Shadow side expression with evidence
+- **Quote examples showing this archetype**
+
+## 11.5 Your Supporting Archetype(s): [ADDITIONAL PATTERNS]
+
+[2 paragraphs on any additional active archetypes. Include:]
+- Other archetypal patterns present but less dominant
+- How these support your primary archetypal expression
+- Brief light and shadow manifestations
+
+## 11.6 Your Archetypal Conflicts: Internal Tensions
+
+[2-3 paragraphs analyzing archetypal conflicts. Include:]
+- Where your dominant archetypes create internal tension
+- Competing archetypal drives (e.g., King vs. Rebel, Creator vs. Warrior)
+- How these conflicts show up in decision-making and behavior
+- Cost of unresolved archetypal conflicts
+- How you navigate these tensions
+
+## 11.7 Your Archetypal Mission: What You're Here to Do
+
+[2-3 paragraphs on archetypal purpose. Include:]
+- What your archetypal constellation suggests about your life purpose
+- The "quest" or mission your archetypes are driving
+- Legacy and impact through archetypal lens
+- Alignment with stated legacy goals
+- **Connect to their legacy aspirations**
+
+## 11.8 Your Hero's Journey: Where You Are in the Story
+
+[2-3 paragraphs mapping mythological journey. Include:]
+- Where you are in the classic hero's journey arc
+- Trials and transformations you've experienced
+- Current phase (initiation, ordeal, return, mastery)
+- What the journey is teaching you
+- Next chapter in your archetypal development
+
+## 11.9 Your Archetypal Development: Integration & Growth
+
+[2 paragraphs on evolution. Include:]
+- How your archetypal expression is evolving
+- Which archetypes need greater integration
+- Shadow work opportunities
+- What full archetypal integration would look like for you
+- Next-level archetypal expression
+
+## 11.10 Key Archetypal Patterns Summary
+
+[Bullet-point summary of 5-7 core archetypal patterns, each with 1-2 sentence explanation]
+
+
+<<common_instructions>>
+
+---
+
+## WRITING REQUIREMENTS
+
+### AUDIENCE & VOICE
+- **Write directly to the subject using second person ("you," "your")**
+- This is THEIR mirror profile—they are reading about themselves
+- Example: "Your primary archetype is the Creator-King...", "You embody the Warrior when...", "Your shadow Magician appears when..."
+- Make it feel like revealing their mythological blueprint
+
+### DEPTH & NUANCE
+- Name specific archetypes clearly (don't be vague)
+- Provide rich evidence from their actual stories
+- Show both light and shadow expressions honestly
+- Make archetypal patterns concrete and recognizable
+- Don't force archetypes that don't fit
+
+### EVIDENCE-BASED
+- Quote directly from their answers frequently (use quotation marks with no question reference)
+- **DO NOT include question references like (Q4) or (Q58)**
+- Weave quotes naturally: Your Creator archetype shows when you described "..."
+- Use their stories and examples as archetypal evidence
+- Point to specific behaviors that reveal archetypes
+
+### TONE
+- Mythological and meaningful
+- Validating of archetypal gifts
+- Honest about shadow expressions without shame
+- Like a depth psychologist revealing their soul patterns
+
+### AUTHENTICITY
+- Use their own stories as archetypal evidence
+- Don't force mythological language unnaturally
+- Make archetypes feel real and recognizable to them
+- Connect archetypes to their actual lived experience
+
+### INTEGRATION
+- Connect archetypes to identity (Section 1)
+- Link to values and mission (Section 2)
+- Show how archetypes drive leadership (Section 5)
+- Connect to legacy goals (Section 8)
+
+## CRITICAL STANDARDS
+
+<<common_includes>>
+✅ **Names 2-3 specific dominant archetypes clearly**
+✅ **Analyzes both light and shadow expressions of each archetype**
+✅ **Shows archetypal conflicts and tensions**
+✅ **Uses their stories as evidence for archetypal patterns**
+✅ **Honest about shadow expressions with compassion**
+
+## WHAT TO AVOID
+
+❌ Vague archetypal references without clear identification
+❌ Only praising light side without addressing shadow
+❌ Forcing archetypes that don't fit the evidence
+❌ Academic jargon that makes archetypes feel distant
+❌ Ignoring archetypal conflicts when present
+❌ Generic archetypal descriptions that could apply to anyone
+❌ Missing the connection between archetypes and their actual life patterns
+
+## KEY ANALYTICAL QUESTIONS TO ANSWER
+
+As you write, ensure you address:
+1. What are their 2-3 dominant archetypes based on evidence?
+2. How do these archetypes express in their light (healthy) form?
+3. How do these archetypes express in their shadow (wounded) form?
+4. What triggers shadow archetypal activation?
+5. Do their dominant archetypes conflict with each other?
+6. What is their archetypal mission or quest?
+7. Where are they in their hero's journey?
+8. What archetypal integration would support their growth?
+
+## INPUTS
+
+MASTER_EXTRACTION:
+
+<<master_extraction>>
+
+QUESTION_ANSWERS:
+
+<<question_answers>>
+
+## BEGIN ANALYSIS
+
+Write Section 11: Archetypal Analysis now.

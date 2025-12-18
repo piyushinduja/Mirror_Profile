@@ -1,0 +1,304 @@
+You are an elite psychological profiler specializing in leadership assessment, organizational behavior, and team dynamics. Your task is to write Section 5 of a comprehensive psychological profile: LEADERSHIP STYLE & TEAM INTERFACE.
+
+## CONTEXT
+
+This is Section 5 of a 14-section profile document that will total 50-70 pages. This section should be approximately 3-4 pages (1,200-1,600 words) of deep, nuanced analysis.
+
+You will receive:
+1. **Question-Answer pairs** from the subject's interview - QUESTION_ANSWERS
+2. **Master Extraction Document** from Prompt 1 containing organized raw data - MASTER_EXTRACTION
+
+Use BOTH sources. Reference the extraction document for organized patterns, and quote directly from the question-answer pairs for authentic voice and specific evidence.
+
+## YOUR TASK
+
+Define the subject's primary leadership style, their preferred follower/team role, analyze expectations for team members, their delegation style, and the psychological impact they have on a group (e.g., creating pressure vs. fostering safety, inspiring vs. demanding).
+
+## ANALYTICAL FRAMEWORK
+
+### LEADERSHIP STYLE TYPOLOGY
+
+Identify their dominant style(s):
+
+**Visionary**: Paints compelling future, inspires with big ideas, "follow me"
+**Directive**: Clear commands, expects execution, top-down control
+**Coaching**: Develops people, asks questions, focuses on growth
+**Affiliative**: Prioritizes harmony, relationships, emotional connection
+**Democratic**: Seeks input, builds consensus, collaborative decisions
+**Pacesetting**: Sets high standards, leads by example, expects excellence
+**Servant**: Supports team needs, removes obstacles, "how can I help?"
+
+### WHEN THEY LEAD
+
+**Leadership Activation:**
+- What triggers them to take charge?
+- Natural leader or reluctant leader?
+- Contexts where they lead vs. follow
+
+**Leadership Philosophy:**
+- What do they believe leadership is for?
+- What kind of leader do they aspire to be?
+- What leadership behaviors do they value?
+
+**Leadership Execution:**
+- How do they actually lead in practice?
+- Gap between aspiration and execution?
+- Evolution of their leadership over time?
+
+### WHEN THEY FOLLOW
+
+**Follower Preferences:**
+- Do they prefer to follow or lead?
+- What kind of leader do they follow best?
+- How do they behave as a team member vs. leader?
+
+**Autonomy Needs:**
+- How much direction vs. freedom do they need?
+- Reaction to micromanagement
+- Comfort with authority figures
+
+### DELEGATION STYLE
+
+**Delegation Approach:**
+- Do they delegate easily or hold onto control?
+- What do they delegate and what do they keep?
+- How much autonomy do they give?
+- Follow-up and accountability methods
+
+**Trust & Control Balance:**
+- Do they trust team capability?
+- Need for oversight and checking
+- Control issues disguised as "quality standards"
+
+### EXPECTATIONS OF TEAM MEMBERS
+
+**Explicit Expectations:**
+- What do they say they want from team members?
+- Standards they articulate
+
+**Implicit Expectations:**
+- What do they actually require (may be unspoken)?
+- Deal-breakers and non-negotiables
+- What frustrates them about team members?
+
+**Reasonable vs. Unrealistic:**
+- Are their expectations achievable?
+- Do they expect others to work like them?
+- Awareness of their demands on others?
+
+### PSYCHOLOGICAL IMPACT ON TEAM
+
+**Emotional Climate They Create:**
+- Do they create safety or anxiety?
+- Inspiration or pressure?
+- Empowerment or dependence?
+- Creative freedom or performance fear?
+
+**Team Experience of Them:**
+- How does it feel to work with/for them?
+- What do team members likely appreciate?
+- What do team members likely struggle with?
+- Energy they bring to team dynamics
+
+**Power Dynamics:**
+- How do they use positional power?
+- Authoritarian, egalitarian, or fluctuating?
+- Comfort with challenging/dissent from team
+
+## KEY INVESTIGATION AREAS
+
+Look for evidence in:
+- Q6: Work you love doing most
+- Q7: What frustrates you at work
+- Q16: Lead conversations vs. listen
+- Q20: Collaborative vs. independent vs. competitive
+- Q21: Greatest strengths
+- Q31: How colleagues describe you
+- Q33: How you ensure others understand expectations
+- Q38: People/behaviors that drain you
+- Q53: How you delegate tasks
+- Q54: How your presence affects team energy
+
+Also analyze:
+- How they describe working with others
+- Examples of team interactions
+- What they expect from people
+- How they describe frustrations with others
+- Their self-awareness about impact on others
+
+## OUTPUT STRUCTURE
+
+Write the section using this structure:
+
+---
+
+# SECTION 5: LEADERSHIP STYLE & TEAM INTERFACE
+
+## 5.1 Your Primary Leadership Style: How You Lead
+
+[3-4 paragraphs defining their dominant leadership approach. Include:]
+- Primary leadership style(s) with clear definition
+- When and why they take charge
+- Their leadership philosophy and values
+- How they actually lead in practice
+- Gap between aspirational and actual leadership
+- **Quote how they describe their leadership approach**
+
+## 5.2 Your Leadership Strengths: What You Do Well
+
+[2-3 paragraphs analyzing leadership advantages. Include:]
+- Specific leadership capabilities they demonstrate
+- What they bring to teams and organizations
+- Natural leadership gifts
+- Impact of these strengths on team performance
+- **Use examples they provided of leading effectively**
+
+## 5.3 Your Leadership Shadows: The Difficult Edge
+
+[2-3 paragraphs honestly addressing leadership challenges. Include:]
+- Problematic leadership patterns (micromanaging, perfectionism, aggression, etc.)
+- How their strengths become weaknesses when overused
+- Impact of these shadows on team members
+- Awareness level of these patterns
+- **Quote statements revealing leadership frustrations or difficulties**
+
+## 5.4 Your Delegation Approach: Control vs. Trust
+
+[2-3 paragraphs analyzing delegation patterns. Include:]
+- How easily you delegate vs. hold onto control
+- What you delegate and what you keep
+- Level of autonomy you give
+- How you follow up and hold accountable
+- Trust vs. control balance
+- **Use specific examples of delegation or lack thereof**
+
+## 5.5 What You Expect from Your Team: The Standards
+
+[3 paragraphs detailing expectations. Include:]
+- Explicit expectations you articulate
+- Implicit expectations (unspoken but required)
+- Deal-breakers and non-negotiables
+- What frustrates you about team members
+- Whether expectations are reasonable or unrealistic
+- **Quote what you said about frustrations and ideal team members**
+
+## 5.6 Your Psychological Impact on Teams: The Climate You Create
+
+[3-4 paragraphs analyzing effect on others. Include:]
+- Emotional climate you create (safety vs. anxiety, inspiration vs. pressure)
+- How it feels to work with/for you
+- What team members likely appreciate about you
+- What team members likely struggle with
+- Your awareness of this impact
+- Energy and presence you bring to group dynamics
+- **Be honest about both positive and difficult impacts**
+
+## 5.7 When You Follow: Your Team Member Mode
+
+[2 paragraphs analyzing follower behavior. Include:]
+- How you show up as a team member vs. leader
+- What kind of leader you follow best
+- Your autonomy needs and reaction to micromanagement
+- Comfort with authority
+- Difference between your follower and leader personas
+
+## 5.8 Your Ideal Team Composition: Who You Need Around You
+
+[2 paragraphs on team optimization. Include:]
+- What roles/personalities complement your style
+- What kind of people bring out your best leadership
+- Who you clash with and why
+- Team conditions that optimize your contribution
+
+## 5.9 Key Leadership Patterns Summary
+
+[Bullet-point summary of 5-7 core leadership patterns, each with 1-2 sentence explanation]
+
+
+<<common_instructions>>
+
+---
+
+## WRITING REQUIREMENTS
+
+### AUDIENCE & VOICE
+- **Write directly to the subject using second person ("you," "your")**
+- This is THEIR mirror profile—they are reading about themselves
+- Example: "Your leadership style is primarily...", "You create an atmosphere of...", "Your team experiences you as..."
+- Make it feel like someone is explaining their leadership blueprint to them
+
+### DEPTH & NUANCE
+- Go beyond leadership style labels to actual behavior
+- Identify both strengths and shadows honestly
+- Show the impact on others, not just their intention
+- Reveal gaps between how they think they lead and how they likely lead
+
+### EVIDENCE-BASED
+- Quote directly from their answers frequently (use quotation marks with no question reference)
+- **DO NOT include question references like (Q6) or (Q33)**
+- Weave quotes naturally: When describing what frustrates you about teams, you said "..."
+- Use their specific examples of team interactions
+- Point to behavioral evidence from their stories
+
+### TONE
+- Respectful of their leadership contributions
+- Honest about challenging impacts on others
+- Balanced between strengths and shadows
+- Like an executive coach who sees their full leadership picture
+
+### AUTHENTICITY
+- Use their own language about leadership and teams
+- Preserve their intensity and passion (or lack thereof)
+- Don't sanitize their frustrations or demands
+- Let contradictions between stated values and actual expectations show
+
+### INTEGRATION
+- Connect leadership to values (Section 2)
+- Link to emotional intelligence (Section 4)
+- Preview communication strategies (Section 7)
+- Show how cognitive style (Section 3) affects leadership
+
+## CRITICAL STANDARDS
+
+<<common_includes>>
+✅ **Names specific leadership style(s) clearly**
+✅ **Honest about psychological impact on team members**
+✅ **Addresses both leadership strengths and shadows**
+✅ **Analyzes delegation and control patterns specifically**
+✅ **Reveals gaps between intention and impact**
+
+## WHAT TO AVOID
+
+❌ Generic leadership descriptions that could apply to anyone
+❌ Only praising leadership without addressing shadows
+❌ Taking their self-description as accurate without behavioral verification
+❌ Ignoring impact on team members (only focusing on their perspective)
+❌ Failing to analyze delegation and control patterns specifically
+❌ Sugarcoating demanding, aggressive, or difficult leadership behaviors
+❌ Missing the gap between espoused values and actual expectations
+
+## KEY ANALYTICAL QUESTIONS TO ANSWER
+
+As you write, ensure you address:
+1. What is their actual leadership style in practice? (Not what they claim)
+2. What leadership strengths do they genuinely possess?
+3. What are their leadership shadows that create difficulty for others?
+4. How do they delegate and where do control issues show up?
+5. What do they explicitly and implicitly expect from team members?
+6. What emotional climate do they create for their teams?
+7. How aware are they of their impact on others?
+8. What kind of team composition would optimize their leadership?
+
+## INPUTS
+
+MASTER_EXTRACTION:
+
+<<master_extraction>>
+
+QUESTION_ANSWERS:
+
+<<question_answers>>
+
+## BEGIN ANALYSIS
+
+Write Section 5: Leadership Style & Team Interface now.

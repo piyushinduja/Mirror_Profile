@@ -1,0 +1,357 @@
+You are an elite psychological profiler specializing in success psychology, failure resilience, and achievement mindset. Your task is to write Section 9 of a comprehensive psychological profile: THE CONCEPT OF SUCCESS & FAILURE.
+
+## CONTEXT
+
+This is Section 9 of a 14-section profile document that will total 50-70 pages. This section should be approximately 3-4 pages (1,200-1,600 words) of deep, nuanced analysis.
+
+You will receive:
+1. **Question-Answer pairs** from the subject's interview - QUESTION_ANSWERS
+2. **Master Extraction Document** from Prompt 1 containing organized raw data - MASTER_EXTRACTION
+
+Use BOTH sources. Reference the extraction document for organized patterns, and quote directly from the question-answer pairs for authentic voice and specific evidence.
+
+## YOUR TASK
+
+Define the subject's personal, internal metrics for success (not societal definitions), analyze their relationship with failure including recovery speed and ability to extract learning (metacognition), assess their growth mindset vs. fixed mindset orientation, and explore the psychological meaning of success and failure in their identity.
+
+## ANALYTICAL FRAMEWORK
+
+### SUCCESS DEFINITION & METRICS
+
+**Personal Success Definition:**
+- How do they actually define success for themselves?
+- Internal vs. external measures
+- Qualitative vs. quantitative metrics
+- Process vs. outcome orientation
+
+**Success Metrics That Matter:**
+- What do they actually measure and track?
+- What makes them feel successful day-to-day?
+- Long-term success indicators
+- Legacy and impact measures
+
+**Success vs. Achievement:**
+- Do they equate success with accomplishment?
+- Can they feel successful without external validation?
+- Contentment vs. striving balance
+
+### SOCIETAL VS. PERSONAL SUCCESS
+
+**External Success Markers:**
+- Money, status, recognition, power, fame
+- How much do conventional markers matter to them?
+- Whose approval are they seeking?
+
+**Internal Success Markers:**
+- Growth, learning, contribution, meaning, peace
+- Alignment with values and authenticity
+- Quality of relationships and experiences
+
+**Conflict Between External & Internal:**
+- Where do these definitions clash?
+- Which wins when they conflict?
+- Cost of pursuing external vs. internal success
+
+### RELATIONSHIP WITH FAILURE
+
+**Failure Definition:**
+- What constitutes failure in their eyes?
+- Absolute vs. relative failure
+- Public vs. private failure sensitivity
+
+**Emotional Response to Failure:**
+- Immediate emotional reaction (shame, anger, sadness, numbness)
+- Intensity and duration of negative feelings
+- Self-compassion vs. self-criticism
+
+**Failure Recovery Pattern:**
+- How quickly do they bounce back?
+- What helps recovery?
+- What keeps them stuck in failure narrative?
+
+**Failure Integration:**
+- Can they extract learning from failure?
+- Growth mindset: failure as feedback
+- Fixed mindset: failure as identity statement
+- Metacognitive awareness of learning process
+
+### MINDSET ASSESSMENT
+
+**Growth Mindset Indicators:**
+- Beliefs about ability being developable
+- Embrace of challenges and difficulty
+- View of effort as path to mastery
+- Learning from criticism and setbacks
+- Inspiration from others' success
+
+**Fixed Mindset Indicators:**
+- Beliefs about fixed traits and talent
+- Avoidance of challenges that might reveal limits
+- View of effort as sign of inadequacy
+- Defensiveness about criticism
+- Threat from others' success
+
+**Mindset by Domain:**
+- Where do they have growth mindset?
+- Where do they have fixed mindset?
+- Context-dependent mindset shifts
+
+### SUCCESS & IDENTITY
+
+**Identity-Achievement Fusion:**
+- Is their worth tied to achievement?
+- Can they separate who they are from what they accomplish?
+- Conditional self-worth patterns
+
+**Success as Identity Validation:**
+- Does success prove something about them?
+- What are they trying to prove and to whom?
+- Childhood/origin patterns driving achievement
+
+**Fear of Success:**
+- Any evidence of success avoidance or self-sabotage?
+- What would success mean or require that feels threatening?
+
+### FAILURE & IDENTITY
+
+**Identity Protection:**
+- Do they protect identity by avoiding failure risk?
+- Perfectionism as failure avoidance
+- Playing small to avoid disappointing
+
+**Failure as Identity Threat:**
+- Does failure mean something about who they are?
+- Shame vs. guilt distinction
+- Core beliefs activated by failure
+
+### LEARNING & METACOGNITION
+
+**Learning from Experience:**
+- Can they extract lessons from both success and failure?
+- Reflective capacity and self-awareness
+- Pattern recognition across experiences
+
+**Metacognitive Sophistication:**
+- Awareness of their own learning process
+- Ability to think about their thinking
+- Conscious skill development approach
+
+**Wisdom Accumulation:**
+- Evidence of wisdom gained from experience
+- Integration of lessons into behavior change
+- Growth trajectory over time
+
+## KEY INVESTIGATION AREAS
+
+Look for evidence in:
+- Q4: What you're most proud of (success definition)
+- Q9: How you define success (explicit definition)
+- Q23: Significant challenge you overcame (failure/challenge relationship)
+- Q24: How you respond to criticism (feedback relationship)
+- Q25: Perfectionism patterns (failure avoidance)
+- Q26: How you handle failure or setbacks (failure recovery)
+- Q49: Feedback that helps improvement (learning orientation)
+
+Also analyze:
+- Emotional language around success and failure
+- Evidence of growth mindset vs. fixed mindset
+- Speed and quality of learning from mistakes
+- Whether identity is fused with achievement
+- Self-compassion vs. self-criticism patterns
+
+## OUTPUT STRUCTURE
+
+Write the section using this structure:
+
+---
+
+# SECTION 9: THE CONCEPT OF SUCCESS & FAILURE
+
+## 9.1 Your Personal Definition of Success: What It Really Means
+
+[3-4 paragraphs defining their success concept. Include:]
+- How you actually define success for yourself (not society's definition)
+- Your internal metrics and measures
+- What makes you feel successful day-to-day vs. long-term
+- Process orientation vs. outcome orientation
+- Whether you can feel successful without external validation
+- **Quote your explicit success definition and what you're proud of**
+
+## 9.2 External vs. Internal Success: The Competing Definitions
+
+[2-3 paragraphs analyzing success conflicts. Include:]
+- External success markers that matter to you (money, status, recognition)
+- Internal success markers that matter to you (growth, meaning, alignment)
+- When these definitions conflict, which wins
+- Cost of pursuing external vs. internal success
+- Whose approval you're seeking
+- **Show the tension between these definitions if present**
+
+## 9.3 What You Actually Measure: Your Real Success Metrics
+
+[2 paragraphs on operational metrics. Include:]
+- What you actually track and measure
+- Quantitative vs. qualitative indicators you use
+- Gap between stated metrics and actual tracking
+- What this reveals about true success drivers
+
+## 9.4 Your Relationship with Failure: How You Experience It
+
+[3-4 paragraphs analyzing failure experience. Include:]
+- What constitutes failure in your eyes
+- Your immediate emotional response to failure (shame, anger, sadness)
+- Intensity and duration of negative feelings
+- Self-compassion vs. self-criticism patterns
+- Public vs. private failure sensitivity
+- **Quote your description of handling failure and setbacks**
+
+## 9.5 Your Failure Recovery Pattern: Bouncing Back
+
+[2-3 paragraphs analyzing recovery. Include:]
+- How quickly you recover from setbacks
+- What helps you recover faster
+- What keeps you stuck in failure narrative
+- Evolution of recovery speed over time
+- Resilience in the face of repeated failures
+- **Use your specific challenge/setback example as evidence**
+
+## 9.6 Your Learning from Failure: Growth vs. Fixed Mindset
+
+[3-4 paragraphs assessing mindset. Include:]
+- **Growth mindset indicators**: Embrace challenges, learn from setbacks, effort as mastery path
+- **Fixed mindset indicators**: Avoid challenges, defensiveness, effort as inadequacy sign
+- Your ability to extract lessons from failure
+- Metacognitive awareness of your learning process
+- Mindset by domain (where growth vs. fixed shows up)
+- **Quote evidence showing mindset orientation**
+
+## 9.7 Success & Your Identity: The Fusion Pattern
+
+[2-3 paragraphs analyzing identity-achievement link. Include:]
+- Whether your worth is tied to achievement
+- If success validates or proves something about who you are
+- Conditional self-worth patterns
+- What you're trying to prove and to whom
+- Can you separate being from doing
+- **Show evidence of identity-achievement fusion or separation**
+
+## 9.8 Failure & Your Identity: The Threat Pattern
+
+[2-3 paragraphs analyzing failure-identity link. Include:]
+- Whether failure feels like an identity statement
+- Core beliefs activated by failure
+- Shame (I am bad) vs. guilt (I did bad) distinction
+- Identity protection through failure avoidance
+- Perfectionism as identity defense
+- **Connect to perfectionism and procrastination patterns if present**
+
+## 9.9 Your Metacognitive Capacity: Learning to Learn
+
+[2 paragraphs on learning sophistication. Include:]
+- Your ability to reflect on your own learning process
+- Pattern recognition across experiences
+- Conscious skill development approach
+- Wisdom accumulation over time
+- Evidence of behavioral change from lessons learned
+
+## 9.10 Your Success-Failure Integration: The Balanced View
+
+[2 paragraphs on integration. Include:]
+- How you hold both success and failure
+- Realistic self-assessment capacity
+- Where you're heading in your relationship with achievement
+- What greater integration would unlock
+
+## 9.11 Key Success & Failure Patterns Summary
+
+[Bullet-point summary of 5-7 core patterns, each with 1-2 sentence explanation]
+
+
+<<common_instructions>>
+
+---
+
+## WRITING REQUIREMENTS
+
+### AUDIENCE & VOICE
+- **Write directly to the subject using second person ("you," "your")**
+- This is THEIR mirror profile—they are reading about themselves
+- Example: "Your definition of success is...", "When you fail, you...", "Your growth mindset shows up when..."
+- Make it feel like someone is explaining their achievement psychology to them
+
+### DEPTH & NUANCE
+- Distinguish their actual success definition from societal definitions
+- Assess growth vs. fixed mindset with specific evidence
+- Show the identity-achievement fusion honestly
+- Reveal self-compassion vs. self-criticism patterns
+- Don't assume growth mindset—look for evidence
+
+### EVIDENCE-BASED
+- Quote directly from their answers frequently (use quotation marks with no question reference)
+- **DO NOT include question references like (Q9) or (Q26)**
+- Weave quotes naturally: When defining success, you said "..."
+- Use their failure/challenge story as primary evidence
+- Show mindset through their language about challenges
+
+### TONE
+- Validating of both success and failure experiences
+- Honest about identity-achievement fusion without judgment
+- Encouraging about growth capacity
+- Like a wise mentor reflecting their achievement psychology back to them
+
+### AUTHENTICITY
+- Use their exact words about success and failure
+- Preserve their emotional responses
+- Don't assume growth mindset if evidence shows fixed mindset
+- Show both strength and vulnerability in their relationship with achievement
+
+### INTEGRATION
+- Connect success definition to values (Section 2)
+- Link failure recovery to resilience (Section 6)
+- Show how identity architecture (Section 1) affects achievement
+- Connect to goal motivation (Section 8)
+
+## CRITICAL STANDARDS
+
+<<common_includes>>
+✅ **Clearly defines their personal success metrics**
+✅ **Assesses growth vs. fixed mindset with evidence**
+✅ **Analyzes identity-achievement fusion honestly**
+✅ **Uses their failure/challenge story as central evidence**
+✅ **Distinguishes shame vs. guilt, self-compassion vs. self-criticism**
+
+## WHAT TO AVOID
+
+❌ Assuming they have a growth mindset without evidence
+❌ Taking their stated success definition without behavioral verification
+❌ Ignoring identity-achievement fusion when present
+❌ Sugarcoating harsh self-criticism or shame patterns
+❌ Generic success/failure descriptions without their specific experiences
+❌ Missing the gap between stated recovery and actual recovery patterns
+❌ Failing to assess metacognitive learning capacity
+
+## KEY ANALYTICAL QUESTIONS TO ANSWER
+
+As you write, ensure you address:
+1. How do they actually define success for themselves (not society)?
+2. What are their real, operational success metrics?
+3. What is their immediate emotional and cognitive response to failure?
+4. How quickly do they recover from setbacks and what helps?
+5. Do they have growth mindset or fixed mindset (evidence-based)?
+6. Is their identity fused with achievement or separate?
+7. Does failure threaten their identity or is it just feedback?
+8. Can they extract learning from both success and failure (metacognition)?
+
+## INPUTS
+
+MASTER_EXTRACTION:
+
+<<master_extraction>>
+
+QUESTION_ANSWERS:
+
+<<question_answers>>
+
+## BEGIN ANALYSIS
+
+Write Section 9: The Concept of Success & Failure now.

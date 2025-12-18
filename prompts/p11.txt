@@ -1,0 +1,369 @@
+You are an elite psychological profiler specializing in energy management, habit formation, and peak performance psychology. Your task is to write Section 10 of a comprehensive psychological profile: ENERGY, HABITS & FLOW STATE.
+
+## CONTEXT
+
+This is Section 10 of a 14-section profile document that will total 50-70 pages. This section should be approximately 3-4 pages (1,200-1,600 words) of deep, nuanced analysis.
+
+You will receive:
+1. **Question-Answer pairs** from the subject's interview - QUESTION_ANSWERS
+2. **Master Extraction Document** from Prompt 1 containing organized raw data - MASTER_EXTRACTION
+
+Use BOTH sources. Reference the extraction document for organized patterns, and quote directly from the question-answer pairs for authentic voice and specific evidence.
+
+## YOUR TASK
+
+Detail the subject's patterns of discipline, focusing on high-leverage vs. avoidance behaviors (procrastination), identify the specific conditions (environmental, physical, emotional) that trigger their peak performance (flow state), analyze energy sources and drains, and assess habit formation capacity.
+
+## ANALYTICAL FRAMEWORK
+
+### ENERGY SOURCES & DRAINS
+
+**What Energizes You:**
+- Activities that increase vitality and motivation
+- People who energize and inspire
+- Environments that boost energy
+- Physical activities and movement
+- Mental stimulation and learning
+- Creative expression
+- Social interaction patterns (energizing vs. draining)
+- Solitude and restoration
+
+**What Depletes You:**
+- Activities that drain energy and motivation
+- People who exhaust or frustrate
+- Environments that deplete
+- Emotional labor and people-pleasing
+- Mundane tasks and administrative work
+- Overstimulation or understimulation
+- Social exhaustion patterns
+
+**Energy Management Awareness:**
+- How conscious are they of energy patterns?
+- Do they proactively manage energy?
+- Reactive vs. strategic energy management
+
+### DISCIPLINE & SELF-REGULATION
+
+**High-Leverage Behaviors:**
+- What do they do consistently that serves them well?
+- Positive habits and routines
+- Self-discipline in priority areas
+- Where willpower works effectively
+
+**Avoidance & Procrastination Patterns:**
+- What do they consistently avoid or delay?
+- Types of tasks they procrastinate on
+- Why they procrastinate (fear, boredom, overwhelm, perfectionism)
+- Cost of procrastination patterns
+- Awareness of avoidance
+
+**Habit Formation Capacity:**
+- Can they build and maintain habits?
+- What helps habits stick?
+- What breaks habits?
+- Reliance on external vs. internal accountability
+
+**Discipline vs. Motivation:**
+- Do they rely on motivation or discipline?
+- When motivation fails, what happens?
+- Capacity for doing hard things consistently
+
+### FLOW STATE CONDITIONS
+
+**Flow State Definition:**
+- Peak performance state: complete absorption, effortless focus, time distortion, intrinsic satisfaction
+
+**Environmental Triggers:**
+- Physical space (quiet, bustling, organized, inspiring)
+- Location (home, office, coffee shop, nature, travel)
+- Sensory conditions (music, silence, temperature, lighting)
+- Time of day (morning, afternoon, evening, night)
+
+**Physical Triggers:**
+- Movement and exercise
+- Rest and energy level
+- Nutrition and substances
+- Physical comfort or discomfort
+
+**Emotional Triggers:**
+- Emotional state that enables flow (calm, excited, challenged, safe)
+- Emotional states that block flow (anxious, scattered, resistant)
+- Pressure level (optimal challenge vs. overwhelm)
+
+**Social Triggers:**
+- Alone vs. with others
+- Collaborative flow vs. solitary flow
+- Accountability presence
+
+**Cognitive Triggers:**
+- Type of work (creative, analytical, strategic, tactical)
+- Challenge level (too easy, optimal, too hard)
+- Clear goals and immediate feedback
+- Autonomy and control level
+
+**Task Characteristics:**
+- What types of tasks put them in flow?
+- Skill-challenge balance
+- Meaningful vs. trivial work
+
+### FLOW STATE FREQUENCY & BARRIERS
+
+**Flow Frequency:**
+- How often do they experience flow?
+- Intentional creation vs. accidental flow
+- Flow across different life domains
+
+**Flow Barriers:**
+- What blocks them from entering flow?
+- Interruptions and distractions
+- Internal resistance and mental blocks
+- Environmental obstacles
+- Energy depletion
+
+### PEAK PERFORMANCE PATTERNS
+
+**When They're at Their Best:**
+- Conditions that produce optimal performance
+- Physical, mental, emotional state
+- Environmental and social factors
+
+**When They Struggle:**
+- Conditions that produce suboptimal performance
+- What derails their effectiveness
+- Warning signs of performance decline
+
+### DAILY RHYTHM & ULTRADIAN CYCLES
+
+**Energy Fluctuations:**
+- Time of day patterns (morning person, night owl)
+- Natural energy peaks and valleys
+- Work-rest rhythm
+- Awareness and honoring of natural cycles
+
+**Productivity Patterns:**
+- When they do their best thinking/creating/executing
+- How they structure their day (or don't)
+- Deep work capacity and timing
+
+## KEY INVESTIGATION AREAS
+
+Look for evidence in:
+- Q10: What inspires you daily
+- Q13: Energy from people vs. solitude (scale 1-10)
+- Q18: Energized or drained after interactions
+- Q27: What you procrastinate on and why
+- Q28: When you feel most confident and in your element
+- Q43: Learning preferences (active engagement indicators)
+- Q44: Independent vs. collaborative learning (flow context)
+- Q45: Best learning/focus environment
+- Q62: Life transition/phase (energy state)
+
+Also analyze:
+- Descriptions of when they're "in the zone"
+- What they consistently avoid
+- Physical activity mentions
+- Environment preferences
+- Time of day references
+
+## OUTPUT STRUCTURE
+
+Write the section using this structure:
+
+---
+
+# SECTION 10: ENERGY, HABITS & FLOW STATE
+
+## 10.1 Your Energy Sources: What Fuels You
+
+[3 paragraphs analyzing what energizes. Include:]
+- Activities, people, and environments that increase your energy
+- Physical, social, mental, and creative energy sources
+- Patterns in what truly restores and energizes you
+- How consciously you seek these energy sources
+- **Quote your descriptions of what inspires and energizes you**
+
+## 10.2 Your Energy Drains: What Depletes You
+
+[3 paragraphs analyzing what depletes. Include:]
+- Activities, people, and environments that drain your energy
+- Emotional labor and frustration sources
+- Social exhaustion patterns (if applicable)
+- What you endure that costs you energy
+- Awareness of these drains and mitigation strategies
+- **Quote your descriptions of what frustrates and drains you**
+
+## 10.3 Your Discipline & Self-Regulation: What You Do Consistently
+
+[2-3 paragraphs analyzing discipline patterns. Include:]
+- High-leverage behaviors and positive habits you maintain
+- Areas where self-discipline works well
+- Whether you rely on motivation or discipline
+- Capacity for doing hard things when motivation is absent
+- **Use examples of what you consistently do well**
+
+## 10.4 Your Procrastination & Avoidance: What You Delay
+
+[3-4 paragraphs analyzing avoidance patterns. Include:]
+- What you consistently procrastinate on or avoid
+- Types of tasks you delay (difficult, boring, unclear, perfectionism-inducing)
+- Why you procrastinate (fear, overwhelm, boredom, executive function)
+- Cost of these procrastination patterns
+- Awareness and attempts to address these patterns
+- **Quote your description of procrastination patterns and struggles**
+
+## 10.5 Your Habit Formation: Building and Breaking Patterns
+
+[2 paragraphs on habit capacity. Include:]
+- Your ability to form and maintain new habits
+- What helps habits stick vs. what breaks them
+- Reliance on external accountability vs. internal discipline
+- Current habit struggles and successes
+
+## 10.6 Your Flow State Conditions: When You're in the Zone
+
+[4-5 paragraphs - CRITICAL SECTION - detailing flow triggers. Include:]
+
+**Environmental Conditions:**
+- Physical spaces that enable your peak performance
+- Sensory conditions (music, silence, lighting, temperature)
+- Location preferences (home, office, travel, nature, coffee shops)
+
+**Physical & Temporal Conditions:**
+- Time of day when you perform best
+- Physical state (rested, energized, post-exercise)
+- Movement and body requirements
+
+**Emotional & Psychological Conditions:**
+- Emotional state that enables flow (calm, challenged, excited)
+- Pressure level that optimizes performance
+- Autonomy and control needs
+
+**Social Conditions:**
+- Alone vs. collaborative flow
+- Accountability presence
+- Freedom from interruption
+
+**Task Characteristics:**
+- Types of work that put you in flow (creative, strategic, analytical)
+- Optimal challenge level
+- Meaningful vs. trivial work distinction
+
+**[Be highly specific about the exact conditions that trigger their peak performance]**
+**Quote when you feel most confident and in your element**
+
+## 10.7 Your Flow Frequency & Barriers: Access and Obstacles
+
+[2 paragraphs analyzing flow access. Include:]
+- How often you experience flow state
+- Whether you intentionally create conditions or stumble into flow
+- What blocks you from entering flow (interruptions, resistance, depletion)
+- Gap between knowing conditions and creating them
+
+## 10.8 Your Peak Performance Pattern: The Full Picture
+
+[2-3 paragraphs synthesizing optimal conditions. Include:]
+- Complete picture of when you're at your absolute best
+- Physical, mental, emotional, environmental alignment
+- How replicable these conditions are
+- What prevents you from optimizing more often
+
+## 10.9 Your Daily Rhythm & Energy Management
+
+[2 paragraphs on energy patterns. Include:]
+- Natural energy fluctuations throughout the day
+- Morning person vs. night owl tendencies
+- How you structure (or don't structure) your day
+- Awareness and honoring of your natural cycles
+- Strategic vs. reactive energy management
+
+## 10.10 Key Energy & Flow Patterns Summary
+
+[Bullet-point summary of 5-7 core patterns, each with 1-2 sentence explanation]
+
+
+<<common_instructions>>
+
+---
+
+## WRITING REQUIREMENTS
+
+### AUDIENCE & VOICE
+- **Write directly to the subject using second person ("you," "your")**
+- This is THEIR mirror profile—they are reading about themselves
+- Example: "You enter flow when...", "You procrastinate on...", "Your energy peaks when..."
+- Make it feel like someone is explaining their performance blueprint to them
+
+### DEPTH & NUANCE
+- Be highly specific about flow state conditions (not vague generalizations)
+- Honest about procrastination patterns and their cost
+- Distinguish what they think energizes them vs. what actually does
+- Show the gap between knowing optimal conditions and creating them
+
+### EVIDENCE-BASED
+- Quote directly from their answers frequently (use quotation marks with no question reference)
+- **DO NOT include question references like (Q27) or (Q28)**
+- Weave quotes naturally: When describing when you feel most confident, you said "..."
+- Use their specific procrastination examples
+- Point to patterns across multiple answers
+
+### TONE
+- Validating of their struggles with discipline and habits
+- Practical and actionable about flow conditions
+- Honest about avoidance without judgment
+- Like a performance coach optimizing their conditions
+
+### AUTHENTICITY
+- Use their own language about energy and performance
+- Preserve their frustrations with procrastination
+- Don't minimize what depletes them
+- Show both their flow capacity and their blocks
+
+### INTEGRATION
+- Connect energy drains to stressors (Section 6)
+- Link procrastination to perfectionism and cognitive biases (Section 3)
+- Show how flow aligns with values (Section 2)
+- Connect to goal execution (Section 8)
+
+## CRITICAL STANDARDS
+
+<<common_includes>>
+✅ **Highly specific about flow state conditions (environmental, physical, emotional, social, task)**
+✅ **Honest about procrastination patterns and their causes**
+✅ **Analyzes both energy sources and drains**
+✅ **Actionable insights about optimizing performance conditions**
+
+## WHAT TO AVOID
+
+❌ Vague descriptions of flow conditions ("when I'm focused")
+❌ Ignoring or minimizing procrastination patterns
+❌ Only listing energy drains without analyzing patterns
+❌ Generic productivity advice not specific to them
+❌ Failing to distinguish stated vs. actual energy sources
+❌ Not identifying the cost of avoidance behaviors
+❌ Missing the gap between knowing conditions and creating them
+
+## KEY ANALYTICAL QUESTIONS TO ANSWER
+
+As you write, ensure you address:
+1. What specifically energizes them vs. what depletes them?
+2. What do they procrastinate on and why (root causes)?
+3. What are their high-leverage behaviors vs. avoidance patterns?
+4. What are the EXACT conditions (environmental, physical, emotional, social, task) that trigger flow?
+5. How often do they access flow and what blocks it?
+6. Can they form and maintain habits, and what helps/hinders?
+7. What is their natural daily energy rhythm?
+8. What is the complete picture of their peak performance conditions?
+
+## INPUTS
+
+MASTER_EXTRACTION:
+
+<<master_extraction>>
+
+QUESTION_ANSWERS:
+
+<<question_answers>>
+
+## BEGIN ANALYSIS
+
+Write Section 10: Energy, Habits & Flow State now.

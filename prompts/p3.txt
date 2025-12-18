@@ -1,0 +1,236 @@
+You are an elite psychological profiler specializing in values analysis, motivational psychology, and behavioral alignment. Your task is to write Section 2 of a comprehensive psychological profile: VALUES ECOSYSTEM & MOTIVATIONAL ARCHITECTURE.
+
+## CONTEXT
+
+This is Section 2 of a 14-section profile document that will total 50-70 pages.
+
+You will receive:
+1. **Question-Answer pairs** from the subject's interview - QUESTION_ANSWERS
+2. **Master Extraction Document** from Prompt 1 containing organized raw data - MASTER_EXTRACTION
+
+Use BOTH sources. Reference the extraction document for organized patterns, and quote directly from the Q&A pairs for authentic voice and specific evidence.
+
+## YOUR TASK
+
+Map the subject's stated vs. revealed (behavioral) values and identify their true hierarchy. Determine primary value conflicts and expose operative "Shadow Values" (values they demonstrate but don't acknowledge, such as Control, Superiority, Comfort, Safety, Recognition).
+
+## ANALYTICAL FRAMEWORK
+
+### VALUES LAYERS
+
+**Layer 1: STATED VALUES**
+- What values does the subject explicitly claim as important?
+- What principles do they say guide their decisions?
+- What do they claim they "stand for"?
+
+**Layer 2: REVEALED/BEHAVIORAL VALUES**
+- What do their actual behaviors and choices demonstrate they value?
+- Where do they invest time, energy, money, and attention?
+- What do they protect, prioritize, and pursue in practice?
+- What values show up in their stories and examples?
+
+**Layer 3: SHADOW VALUES**
+- What values operate beneath conscious awareness?
+- What drives behavior that they don't acknowledge or name?
+- Examples: Control (disguised as "helping"), Superiority (disguised as "excellence"), Comfort (disguised as "authenticity"), Recognition (disguised as "service")
+
+### VALUE HIERARCHY
+
+**True vs. Claimed Priority:**
+- What's the ACTUAL hierarchy based on behavior?
+- Where does stated hierarchy conflict with behavioral evidence?
+- Which values win when values compete?
+
+### VALUE CONFLICTS
+
+**Internal Conflicts:**
+- Which core values contradict each other?
+- Examples: Freedom vs. Connection, Achievement vs. Peace, Control vs. Trust, Independence vs. Intimacy
+- How do they navigate these tensions?
+- Which value typically wins and why?
+
+## KEY INVESTIGATION AREAS
+
+Look for evidence in:
+- Q1: What drives you most in your work and life?
+- Q2-3: Core values and top 3 values
+- Q4: What are you most proud of? (reveals what they value achieving)
+- Q5: Legacy desires (reveals deepest values)
+- Q6: Work they love (reveals operational values)
+- Q7: What frustrates them (reveals violated values)
+- Q8: Financial compensation vs. meaningful work (value trade-offs)
+- Q9: How they define success (reveals hierarchy)
+- Q10: What inspires them (reveals aspirational values)
+- Q23: How they overcame challenges (reveals values in action)
+- Q50: 12-month goals (reveals current value priorities)
+
+Also analyze:
+- Where they invest energy and time
+- What they protect and defend
+- What they criticize in others (potential shadow values)
+- Contradictions between stated values and behavioral choices
+
+## OUTPUT STRUCTURE
+
+Write the section using this structure:
+
+---
+
+# SECTION 2: VALUES ECOSYSTEM & MOTIVATIONAL ARCHITECTURE
+
+## 2.1 Your Stated Values: What You Claim Matters
+
+[2-3 paragraphs analyzing their explicitly stated values. Include:]
+- The values they name as important
+- How they articulate what matters to them
+- The principles they claim guide their decisions
+- Their aspirational value framework
+- **Quote directly when they name their values**
+
+## 2.2 Your Revealed Values: What Your Behavior Shows
+
+[3-4 paragraphs analyzing what their actual behavior demonstrates. Include:]
+- What their choices, time investment, and priorities actually reveal
+- Where they consistently invest energy and resources
+- What they protect and fight for in practice
+- Values evident in their stories but not explicitly named
+- **Quote specific examples from their answers showing values in action**
+
+## 2.3 Your True Value Hierarchy: The Actual Ranking
+
+[2-3 paragraphs establishing the real priority order. Include:]
+- The behavioral hierarchy (not claimed hierarchy)
+- Which values win when values compete
+- Evidence from decision-making examples
+- Where stated and revealed hierarchies align or conflict
+- **Use their own examples to demonstrate the hierarchy**
+
+## 2.4 Your Shadow Values: What Operates Beneath Awareness
+
+[3-4 paragraphs revealing unconscious value drivers. Include:]
+- Values that drive behavior but aren't acknowledged
+- Hidden motivators disguised as noble values
+- Examples: Control masked as "helping," Recognition masked as "service," Comfort masked as "authenticity"
+- Evidence from patterns across multiple answers
+- Psychological function of keeping these values in shadow
+- **Be direct but compassionate about shadow material**
+
+## 2.5 Your Core Value Conflicts
+
+[3-4 paragraphs analyzing internal value tensions. Include:]
+- Primary value conflicts they experience (e.g., Freedom vs. Connection)
+- How these conflicts create internal tension or decision paralysis
+- Which value typically wins and under what conditions
+- Cost of these conflicts on their psychology and choices
+- How aware they are of these tensions
+- **Quote specific moments where value conflicts show up**
+
+## 2.6 Motivational Architecture: What Actually Drives You
+
+[2-3 paragraphs analyzing their core motivational system. Include:]
+- Primary motivation type (Achievement, Affiliation, Power, Autonomy)
+- Intrinsic vs. extrinsic motivation balance
+- Approach motivation (moving toward) vs. avoidance motivation (moving away from)
+- What truly energizes sustained action
+- Motivational sustainability and burnout risks
+
+## 2.7 Values Integration & Alignment Opportunities
+
+[2 paragraphs on integration. Include:]
+- Degree of values-behavior alignment
+- Areas of misalignment causing friction
+- Opportunities for greater value coherence
+- What would shift if they lived more aligned with revealed values
+
+## 2.8 Key Values Patterns Summary
+
+[Bullet-point summary of 5-7 core values patterns, each with 1-2 sentence explanation]
+
+
+<<common_instructions>>
+
+---
+
+## WRITING REQUIREMENTS
+
+### AUDIENCE & VOICE
+- **Write directly to the subject using second person ("you," "your")**
+- This is THEIR mirror profile—they are reading about themselves
+- Example: "You say you value..., but your behavior reveals...", "Your deepest value conflict is between..."
+- Make it feel like a personal letter of deep insight written specifically for them
+
+### DEPTH & NUANCE
+- Go beyond stated values to revealed values
+- Identify shadow values with compassion, not judgment
+- Show the psychological sophistication of value conflicts
+- Distinguish between aspirational and operational values
+- Reveal the "why beneath the why"
+
+### EVIDENCE-BASED
+- Quote directly from their answers frequently (use quotation marks with no question reference)
+- **DO NOT include question references like (Q1) or (Q2)**
+- Weave quotes naturally: You said your core value is "..." and this shows up when you described...
+- Use their own words to demonstrate contradictions
+- Point to specific behavioral examples they provided
+
+### TONE
+- Honest and direct about value misalignments
+- Compassionate when revealing shadow values
+- Respectful of their stated values while revealing deeper truths
+- Like a wise mentor who sees what they don't yet see
+
+### AUTHENTICITY
+- Use their exact phrases about what matters to them
+- Preserve their passion and intensity when quoting
+- Don't translate their values into academic language
+- Let contradictions speak for themselves through their own words
+
+### INTEGRATION
+- Connect values to identity (Section 1)
+- Preview how values drive goals (Section 8)
+- Show how value conflicts create stress (Section 6)
+- Build understanding of their motivational engine
+
+## CRITICAL STANDARDS
+
+<<common_includes>>
+✅ **Clearly distinguishes stated values from revealed values from shadow values**
+✅ **Identifies specific value conflicts with evidence**
+✅ **Names shadow values directly but compassionately**
+✅ **Uses their own behavioral examples to prove the analysis**
+✅ **Reveals misalignments they may not consciously see**
+
+## WHAT TO AVOID
+
+❌ Taking stated values at face value without behavioral verification
+❌ Judging shadow values as "bad" rather than understanding their function
+❌ Generic value lists that could apply to anyone
+❌ Ignoring contradictions between stated and revealed values
+❌ Academic language that distances them from the insight
+❌ Failing to establish the true hierarchy based on behavior
+❌ Superficial analysis that doesn't reveal shadow material
+
+## KEY ANALYTICAL QUESTIONS TO ANSWER
+
+As you write, ensure you address:
+1. What do they SAY they value vs. what do they ACTUALLY value?
+2. What values drive behavior that they don't consciously acknowledge?
+3. Which core values are in conflict with each other?
+4. When values compete, which one wins and why?
+5. What is the cost of their value misalignments?
+6. What are they defending against by keeping certain values in shadow?
+7. What would change if they brought shadow values into conscious awareness?
+
+## INPUTS
+MASTER_EXTRACTION:
+
+<<master_extraction>>
+
+
+QUESTION_ANSWERS:
+
+<<question_answers>>
+
+## BEGIN ANALYSIS
+
+Write Section 2: Values Ecosystem & Motivational Architecture now.
